@@ -1,0 +1,161 @@
+# Questions about single speeches, on what they are about and how they are said. All wording is ours, and README.md
+# lists the sources. Each topic is its own yes/no question, since a speech can have several.
+
+topics:
+  # Comparative Agendas Project major topics, grouped as the Israeli Agendas Project does
+  - id: topic_security
+    question: >-
+      Is this speech, in whole or in substantial part, about the Israeli-Palestinian conflict, national security,
+      the military, terrorism, war, or Israel's relations with its neighbours?
+    when_true: A substantial part of the speech is about the conflict, security, defence or foreign relations.
+    when_false: The speech is about other subjects; the conflict, security or defence are absent or mentioned only in
+      passing.
+  - id: topic_economy
+    question: >-
+      Is this speech, in whole or in substantial part, about the economy, the state budget, taxation, prices and the
+      cost of living, employment, or business regulation?
+    when_true: A substantial part of the speech is about economic or budgetary matters.
+    when_false: The speech is about other subjects; the economy is absent or mentioned only in passing.
+  - id: topic_welfare
+    question: >-
+      Is this speech, in whole or in substantial part, about welfare benefits, health care, housing, pensions,
+      disability, or the elderly?
+    when_true: A substantial part of the speech is about welfare, health, housing or pensions.
+    when_false: The speech is about other subjects; these are absent or mentioned only in passing.
+  - id: topic_education
+    question: >-
+      Is this speech, in whole or in substantial part, about schools, universities, education policy, culture, the
+      arts, sport, science or research?
+    when_true: A substantial part of the speech is about education, culture or science.
+    when_false: The speech is about other subjects; these are absent or mentioned only in passing.
+  - id: topic_religion
+    question: >-
+      Is this speech, in whole or in substantial part, about religion and state: religious legislation, the Sabbath,
+      kashrut, marriage and conversion, the rabbinate, yeshiva students' military service, or the funding of
+      religious institutions?
+    when_true: A substantial part of the speech is about religion and state.
+    when_false: The speech is about other subjects; religion and state are absent or mentioned only in passing.
+  - id: topic_law
+    question: >-
+      Is this speech, in whole or in substantial part, about the courts, the legal system, the rule of law,
+      constitutional matters, the powers of the Knesset or the government, elections, or corruption in politics?
+    when_true: A substantial part of the speech is about law, the courts or the working of government institutions.
+    when_false: The speech is about other subjects; these are absent or mentioned only in passing.
+  - id: topic_minorities
+    question: >-
+      Is this speech, in whole or in substantial part, about Arab citizens of Israel, other minorities, discrimination,
+      equality, or civil and human rights within Israel?
+    when_true: A substantial part of the speech is about minorities, equality or civil rights within Israel.
+    when_false: The speech is about other subjects; these are absent or mentioned only in passing.
+  - id: topic_immigration
+    question: >-
+      Is this speech, in whole or in substantial part, about immigration to Israel (Aliyah and its absorption),
+      or about non-Jewish migrants, asylum seekers and foreign workers?
+    when_true: A substantial part of the speech is about immigration, absorption, migrants or asylum seekers.
+    when_false: The speech is about other subjects; immigration is absent or mentioned only in passing.
+  - id: topic_environment
+    question: >-
+      Is this speech, in whole or in substantial part, about the environment, energy, water, land and planning,
+      transport, or infrastructure?
+    when_true: A substantial part of the speech is about the environment, infrastructure or transport.
+    when_false: The speech is about other subjects; these are absent or mentioned only in passing.
+
+affect:
+  - id: hostility
+    instructions: >-
+      How hostile is the speaker toward their political opponents in this speech? Hostility means the speaker's own
+      contempt, anger, ridicule or personal attacks aimed at other politicians, parties or camps. Disagreeing with
+      opponents' policies in a matter-of-fact way is not hostility. The speaker quoting or describing someone else's
+      hostility does not count.
+    levels:
+      - "Not hostile: the speaker does not attack opponents, or disagrees with them only on the merits."
+      - "Slightly hostile: one brief barb or dismissive remark about opponents."
+      - "Moderately hostile: several attacks on opponents, but most of the speech is about the subject at hand."
+      - "Very hostile: attacking opponents runs through much of the speech."
+      - "Extremely hostile: the speech is mainly an attack on opponents, with contempt, ridicule or personal insult."
+  - id: emotional_intensity
+    instructions: >-
+      How emotionally intense is the speaker's language in this speech? Judge the speaker's own tone: calm and
+      measured at one end; agitated, alarmed, outraged or impassioned at the other. Strong feeling about any
+      subject counts, whether positive or negative.
+    levels:
+      - "Calm: measured, matter-of-fact language throughout."
+      - "Slightly charged: mostly calm, with a few emotionally charged phrases."
+      - "Moderately charged: emotional language in parts, matter-of-fact in others."
+      - "Highly charged: agitated, alarmed or impassioned language through much of the speech."
+      - "Extremely charged: the speech is delivered almost entirely in outrage, alarm or passion."
+
+delegitimisation:
+  - id: delegitimisation
+    question: >-
+      Does the speaker, in this speech, portray political opponents (people, parties, camps or institutions) as
+      illegitimate: as disloyal to the state, as enemies or a danger from within, as serving foreign or hostile
+      interests, or as having no rightful place in Israeli politics? Criticising opponents for what they did or
+      proposed, however harshly, does not count. The speaker quoting or condemning such portrayals by others does
+      not count either.
+    when_true: The speaker portrays political opponents as disloyal, as an enemy within, or as having no legitimate
+      place in politics.
+    when_false: The speaker does not question opponents' legitimacy, even if criticising them harshly.
+
+populism:
+  # V-Party's people-centrism (v2papeople), which the CHES items lack
+  - id: people_centrism
+    question: >-
+      Does the speaker, in this speech, claim to speak for "the people", "the nation", "ordinary Israelis" or
+      "the public" as a whole, against politicians, officials, experts or institutions who are said not to
+      represent them? Speaking on behalf of a specific group (a town, a sector, a profession) does not count.
+    when_true: The speaker claims to speak for the people as a whole against those who are said to ignore or betray
+      them.
+    when_false: The speaker makes no such claim, or speaks only for a specific group or interest.
+
+frames:
+  # after Arad and Freedman (2025)
+  - id: majority_rule
+    instructions: >-
+      When the speaker discusses how decisions should be made in Israel, which does the speaker stress? Based
+      only on what the speaker says in this speech.
+    levels:
+      - "Strongly stresses checks on the majority: courts, legal advisers, minority protections, Basic Laws or the rules
+        of the game must bind an elected majority."
+      - "Leans toward stressing checks on the majority."
+      - "Neither, or gives both equal weight, or does not discuss how decisions should be made."
+      - "Leans toward stressing the will of the majority."
+      - "Strongly stresses majority rule: an elected majority, the government or the Knesset should be able to decide,
+        and those who obstruct it lack a mandate."
+  - id: security_frame
+    question: >-
+      Does the speaker, in this speech, justify a position mainly by appeal to security: the safety of citizens,
+      terrorism, the army, deterrence or an existential threat to the state? The subject need not be security
+      itself; a housing or budget argument made on security grounds counts.
+    when_true: The speaker's main justification is security or threat.
+    when_false: The speaker argues on other grounds, or security is mentioned only in passing.
+
+targets:
+  - id: attacks_arab_citizens
+    question: >-
+      Does the speaker, in this speech, attack Arab citizens of Israel, Arab members of Knesset or Arab parties as
+      a group: as disloyal, as supporters of terror, as a fifth column, or as not belonging? Criticising a named
+      person for a specific act does not count.
+    when_true: The speaker attacks Arab citizens, MKs or parties collectively in these terms.
+    when_false: No such collective attack is made.
+  - id: attacks_courts
+    question: >-
+      Does the speaker, in this speech, attack the Supreme Court, judges, the Attorney General or legal advisers as
+      illegitimate, political, elitist or as usurping power? Disagreeing with a specific ruling on its merits does not
+      count.
+    when_true: The speaker attacks the courts or legal establishment as illegitimate or as usurping power.
+    when_false: No such attack is made.
+  - id: attacks_religious
+    question: >-
+      Does the speaker, in this speech, attack religious or ultra-Orthodox (haredi) Jews or their parties as a group:
+      as parasites, extortionists, coercive or as not sharing the burden? Criticising a specific policy or
+      arrangement on its merits does not count.
+    when_true: The speaker attacks religious or haredi Jews or their parties collectively in these terms.
+    when_false: No such collective attack is made.
+  - id: attacks_left_or_secular
+    question: >-
+      Does the speaker, in this speech, attack the left, liberals, "the elites", the media, academia or the secular
+      establishment as a group: as disloyal, as traitors, as out of touch or as not representing the people?
+      Criticising a specific party's policy on its merits does not count.
+    when_true: The speaker attacks the left, liberals or the secular establishment collectively in these terms.
+    when_false: No such collective attack is made.

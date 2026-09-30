@@ -1,0 +1,73 @@
+# A guard against paying by accident. Live runs also need --live and OPENROUTER_API_KEY.
+prompts_approved: true   # set 2026-09-21
+
+jev:
+  endpoint: https://openrouter.ai/api/alpha/decisions
+  model: typesafe/jev-1.13          # pinned, not jev-latest, for reproducible results
+  api_key_env: OPENROUTER_API_KEY
+  concurrency: 16
+  timeout_s: 60
+  max_retries: 6                    # on 429 and 5xx
+  context_limit_tokens: 32000
+  price_per_m_input_tokens: 0.03125 # pounds, September 2026. Output is free
+  usd_per_gbp: 1.344                # Bank of England, 2026 average to September
+  # fitted to past requests, with the text billed once per request
+  est_chars_per_token_hebrew: 1.33
+  est_chars_per_token_questions: 4.56
+  est_request_overhead_tokens: 263
+
+# What classify asks, and of which texts. Each distinct text is sent once, with every question it still lacks.
+batteries:
+  - {stage: unit, units: data/corpus/processed/packs.parquet, dimensions: config/dimensions.yaml,
+     protocol_types: [plenary]}
+  - {stage: unit, units: data/corpus/processed_committee/packs.parquet, dimensions: config/dimensions.yaml,
+     protocol_types: [committee]}
+  - {stage: speech, units: data/corpus/processed/units.parquet, dimensions: config/dimensions_speech.yaml,
+     protocol_types: [plenary]}
+  # committee speech is only compared with the plenary on these
+  - {stage: speech, units: data/corpus/processed_committee/units.parquet, dimensions: config/dimensions_speech.yaml,
+     protocol_types: [committee], only: [hostility, emotional_intensity, delegitimisation, attacks_courts]}
+  - {stage: bibi, units: data/corpus/processed/units_bibi.parquet, dimensions: config/dimensions_bibi.yaml,
+     protocol_types: [plenary]}
+  # not heckle_gendered, which picked up Hebrew's grammatical gender. heckle2 asks the revised item
+  - {stage: heckle, units: data/corpus/processed/interjections_sample.parquet,
+     dimensions: config/dimensions_heckles.yaml, protocol_types: [plenary],
+     only: [heckle_hostile, heckle_silencing, heckle_personal]}
+  - {stage: heckle2, units: data/corpus/processed/interjections_sample_v2.parquet,
+     dimensions: config/dimensions_heckles_v2.yaml, protocol_types: [plenary]}
+
+corpus:
+  committee_packs: data/corpus/processed_committee/packs.parquet   # pooled in when aggregation.committee is calibrated
+  pack:                             # a member's speech in a year
+    max_chars: 24000                # leaves room for the questions under the token limit
+    separator: "\n\n* * *\n\n"
+  mk_only: true                     # members with a faction at the time
+  min_words: 60
+  max_chars: 8000                   # longer speeches are split at sentence ends
+  max_interruption_words: 25        # a speech runs on across shorter interruptions
+
+periods:
+  types: [year, rolling2, knesset]  # rolling2: two-year windows, labelled by the second year
+  # Knessets 21 and 22 barely sat, and most of their members carried on into 23
+  merge_knessets: [[21, 22, 23]]
+
+filters:
+  gate_threshold: 0.5
+  exclude_chair_units: true
+  # Estimates below these are kept but not charted or validated. A pack counts as a speech and as a sitting.
+  # No standard-error cut for members, since a member whose texts disagree tends to be a moderate.
+  mk:    {min_speeches: 3, min_protocols: 3, max_se: null}
+  group: {min_speeches: 5, min_protocols: 5, max_se: 0.60, min_effective_sittings: 3}
+
+aggregation:
+  # No cut on Jev's confidence. Moderate texts split between levels and a cut would lose the middle of the scale.
+  # calibrated pools in committee packs, equated onto the plenary scale, for members who rarely speak in the plenary.
+  # none: plenary only, as salience always is.
+  committee: calibrated
+  bootstrap_reps: 1000
+  seed: 20260921
+
+validation:
+  crosswalk: config/party_crosswalk.csv
+  min_experts_per_cell: 3
+  min_party_clusters: 8

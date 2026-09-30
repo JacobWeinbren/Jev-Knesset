@@ -1,0 +1,426 @@
+Party ID,Excel Name,Ballot Symbol,Party Name,Knesset #,Bloc
+0,,מחל,Likud,12,Right
+1,,אמת,Alignment,12,Left
+2,,שס,Shas,12,Orthodox
+3,,ג,Agudat Yisrael,12,Orthodox
+4,,רצ,Ratz,12,Left
+5,,ב,National Religious Party,12,Orthodox
+6,,ו,Hadash,12,Arab-Israeli
+7,,ת,Tehiya,12,Right
+8,,מפם,Mapam,12,Left
+9,,ץ,Tzomet,12,Right
+10,,ט,Moledet,12,Right
+11,,הן,Shinui,12,Secular Centre
+12,,עץ,Degel HaTorah,12,Orthodox
+13,,פ,Progressive List for Peace,12,Arab-Israeli
+14,,ע,Arab Democratic Party,12,Arab-Israeli
+15,,קמע,Pensioners,12,Micro
+16,,מי,Meimad,12,Micro
+17,,טע,Derekh Aretz,12,Micro
+18,,ענף,Or Movement,12,Micro
+19,,קז,Movement for Social Justice,12,Micro
+20,,טיף,Yishai – Tribal Israel Together,12,Micro
+21,,מעש,Movement for Moshavim,12,Micro
+22,,זעמ,Tarshish,12,Micro
+23,,ז,Silent Power,12,Micro
+24,,קם,Movement for Demobilised Soldiers,12,Micro
+25,,יענ,Yemenite Association,12,Micro
+26,,זכ,Unity,12,Micro
+27,Alignment,אמת,Labour Party,13,Left
+28,National Religious Party (N.R.P.),ב,National Religious Party,13,Orthodox
+29,Agudat Yisrael,ג,Agudat Yisrael,13,Orthodox
+30,Da,ד,Da,13,Micro
+31,Daf,דף,Pikanti,13,Micro
+32,Vav,ו,Hadash,13,Arab-Israeli
+33,Zeh,זה,Tzipor,13,Micro
+34,Homeland Movement,ט,Moledet,13,Right
+35,Yad,יד,Hatikva,13,Micro
+36,Yaz,יז,Torah VeAretz,13,Micro
+37,Yam,ים,Natural Law Party,13,Micro
+38,Ki,כי,Tali,13,Micro
+39,Likud,מחל,Likud,13,Right
+40,Citizen's Rights Movement (Ratz),מרצ,Meretz,13,Left
+41,Nun,נ,On Wheels,13,Micro
+42,Nun Dalet,נד,"Movement for Mortgage Affected, Homeless and Demobilised Soldiers",13,Micro
+43,Nun Kafh,נכ,Women's Party,13,Micro
+44,Ayin,ע,Arab Democratic Party,13,Arab-Israeli
+45,Peh,פ,Progressive List for Peace,13,Micro
+46,Tzomet,ץ,Tzomet,13,Right
+47,Kofh,ק,"Pensioners, Immigrants and Senior Citizens",13,Micro
+48,Kal,קל,Geulat Yisrael,13,Micro
+49,Kan,קן,New Liberal Party,13,Micro
+50,Shas - Sepharadic Orthodox Party,שס,Shas,13,Orthodox
+51,Tehiya,ת,Tehiya,13,Right
+52,אמת,אמת,Labour Party,14,Left
+53,ב,ב,National Religious Party,14,Orthodox
+54,ג,ג,United Torah Judaism,14,Orthodox
+55,ד,ד,Da'am Workers Party,14,Micro
+56,דן,דן,Settlement Party,14,Micro
+57,הד,הד,The Third Way,14,Secular Centre
+58,ו,ו,Hadash–Balad,14,Arab-Israeli
+59,ז,ז,Man's Rights in the Family Party,14,Micro
+60,ט,ט,Moledet,14,Right
+61,יד,יד,Yamin Yisrael,14,Micro
+62,כן,כן,Yisrael BaAliyah,14,Sectoral
+63,מחל,מחל,Likud,14,Right
+64,מרץ,מרץ,Meretz,14,Left
+65,נ,נ,Ta'al,14,Micro
+66,ע,ע,Ra'am–Mada,14,Arab-Israeli
+67,פ,פ,Gil,14,Micro
+68,פא,פא,Progressive Confederation,14,Micro
+69,ק,ק,Unity for the Defence of New Immigrants,14,Micro
+70,שס,שס,Shas,14,Orthodox
+71,ת,ת,Telem Emuna,14,Micro
+72,אמת,אמת,One Israel,15,Left
+73,ב,ב,National Religious Party,15,Orthodox
+74,ג,ג,United Torah Judaism,15,Orthodox
+75,ד,ד,Balad,15,Arab-Israeli
+76,הד,הד,The Third Way,15,Micro
+77,ו,ו,Hadash,15,Arab-Israeli
+78,ז,ז,Justice for All,15,Micro
+79,זך,זך,Moreshet Avot,15,Micro
+80,יט,יט,National Union,15,Right
+81,ים,ים,Lev LaOlim,15,Micro
+82,יש,יש,Shinui,15,Secular Centre
+83,כן,כן,Yisrael BaAliyah,15,Sectoral
+84,ל,ל,Yisrael Beiteinu,15,Right
+85,ם,ם,One Nation,15,Left
+86,מחל,מחל,Likud,15,Right
+87,מרצ,מרצ,Meretz-Yachad and the Democratic Choice,15,Left
+88,נ,נ,Progressive Center Party,15,Micro
+89,נץ,נץ,Negev Party,15,Micro
+90,עם,עם,United Arab List,15,Arab-Israeli
+91,פ,פ,Pnina Rosenblum,15,Secular Centre
+92,פה,פה,Centre Party,15,Secular Centre
+93,פז,פז,Power for Pensioners,15,Sectoral
+94,ץ,ץ,Tzomet,15,Micro
+95,קז,קז,Casino Party,15,Micro
+96,קם,קם,Da'am Workers Party,15,Micro
+97,קנ,קנ,Ale Yarok,15,Sectoral
+98,קפ,קפ,New Arab Party,15,Micro
+99,קץ,קץ,Tikva,15,Micro
+100,רם,רם,Natural Law Party,15,Micro
+101,רק,רק,Green Party,15,Micro
+102,שס,שס,Shas,15,Orthodox
+103,אמת,אמת,Labour–Meimad,16,Left
+104,ב,ב,National Religious Party,16,Orthodox
+105,ג,ג,United Torah Judaism,16,Orthodox
+106,ד,ד,Balad,16,Arab-Israeli
+107,ו,ו,Hadash–Ta'al,16,Arab-Israeli
+108,ז,ז,Za'am,16,Micro
+109,זנ,זנ,Ahavat Yisrael,16,Micro
+110,ט,ט,Man's Rights in the Family Party,16,Micro
+111,יש,יש,Shinui,16,Secular Centre
+112,כן,כן,Yisrael BaAliyah,16,Sectoral
+113,ל,ל,National Union,16,Right
+114,ם,ם,One Nation,16,Left
+115,מחל,מחל,Likud,16,Right
+116,מרצ,מרצ,Meretz-Yachad and the Democratic Choice,16,Left
+117,נ,נ,Yisrael Aheret,16,Micro
+118,נץ,נץ,Herut – The National Movement,16,Right
+119,עם,עם,United Arab List,16,Arab-Israeli
+120,ף,ף,Leader,16,Micro
+121,פה,פה,Centre Party,16,Micro
+122,צ,צ,Tzomet,16,Micro
+123,צף,צף,Progressive National Alliance,16,Micro
+124,ק,ק,Da'am Workers Party,16,Micro
+125,קך,קך,Citizen and State,16,Micro
+126,קנ,קנ,Ale Yarok,16,Sectoral
+127,קץ,קץ,Lahava,16,Micro
+128,רק,רק,The Greens,16,Micro
+129,שס,שס,Shas,16,Orthodox
+130,אמת,אמת,Labour–Meimad,17,Left
+131,ג,ג,United Torah Judaism,17,Orthodox
+132,ד,ד,Balad,17,Arab-Israeli
+133,ה,ה,Brit Olam,17,Micro
+134,ו,ו,Hadash,17,Arab-Israeli
+135,ז,ז,Lehem,17,Micro
+136,זה,זה,Atid Ehad,17,Micro
+137,זך,זך,Gil,17,Sectoral
+138,חץ,חץ,Hetz,17,Micro
+139,טב,טב,National Union–National Religious Party,17,Right
+140,יש,יש,Shinui,17,Micro
+141,כ,כ,Jewish National Front,17,Micro
+142,כן,כן,Kadima,17,Secular Centre
+143,כץ,כץ,Tzomet,17,Micro
+144,ל,ל,Yisrael Beiteinu,17,Right
+145,מחל,מחל,Likud,17,Right
+146,מרצ,מרצ,Meretz-Yachad,17,Left
+147,נץ,נץ,Herut – The National Movement,17,Micro
+148,עם,עם,United Arab List–Ta'al,17,Arab-Israeli
+149,פ,פ,Tafnit,17,Micro
+150,פז,פז,Lev,17,Micro
+151,פכ,פכ,Oz LaAniyim,17,Micro
+152,פץ,פץ,HaLev,17,Micro
+153,ף,ף,Leader,17,Micro
+154,צה,צה,The New Zionism,17,Micro
+155,ק,ק,Da'am Workers Party,17,Micro
+156,קז,קז,Justice for All,17,Micro
+157,קנ,קנ,Ale Yarok,17,Sectoral
+158,קפ,קפ,Arab National Party,17,Micro
+159,רק,רק,Green Party,17,Sectoral
+160,שס,שס,Shas,17,Orthodox
+161,אמת,אמת,Labour Party,18,Left
+162,אר,אר,Or,18,Micro
+163,ב,ב,The Jewish Home,18,Right
+164,ג,ג,United Torah Judaism,18,Orthodox
+165,ד,ד,Balad,18,Arab-Israeli
+166,ה,ה,The Green Movement–Meimad,18,Micro
+167,ו,ו,Hadash,18,Arab-Israeli
+168,זך,זך,Gil,18,Micro
+169,חי,חי,Yisrael Hazaka,18,Micro
+170,ט,ט,National Union,18,Right
+171,ים,ים,HaYisraelim,18,Micro
+172,ינ,ינ,Lev LaOlim,18,Micro
+173,יק,יק,Holocaust Survivors and Ale Yarok Alumni,18,Micro
+174,כן,כן,Kadima,18,Secular Centre
+175,ל,ל,Yisrael Beiteinu,18,Right
+176,מחל,מחל,Likud,18,Right
+177,מרצ,מרצ,New Movement-Meretz,18,Left
+178,נ,נ,Yisrael HaMithadeshet,18,Micro
+179,נפ,נפ,Ahrayut,18,Micro
+180,נץ,נץ,Lazuz,18,Micro
+181,נר,נר,Lehem,18,Micro
+182,עם,עם,United Arab List–Ta'al,18,Arab-Israeli
+183,פ,פ,Koah LeHashpi'a,18,Micro
+184,פי,פי,Brit Olam,18,Micro
+185,פק,פק,Man's Rights in the Family Party,18,Micro
+186,ץ,ץ,Tzomet,18,Micro
+187,צי,צי,Tzabar,18,Micro
+188,ק,ק,Da'am Workers Party,18,Micro
+189,קנ,קנ,Ale Yarok,18,Micro
+190,קפ,קפ,Koah HaKesef,18,Micro
+191,קץ,קץ,Leader,18,Micro
+192,רק,רק,The Greens,18,Micro
+193,שס,שס,Shas,18,Orthodox
+194,אמת,אמת,Labour Party,19,Left
+195,ג,ג,United Torah Judaism,19,Orthodox
+196,ד,ד,Balad,19,Arab-Israeli
+197,הי,הי,Moreshet Avot,19,Micro
+198,הפ,הפ,Living with Dignity,19,Micro
+199,הק,הק,Hope for Change,19,Micro
+200,ו,ו,Hadash,19,Arab-Israeli
+201,ז,ז,Eretz Hadasha,19,Micro
+202,זך,זך,Dor,19,Micro
+203,טב,טב,The Jewish Home,19,Right
+204,יק,יק,HaYisraelim,19,Micro
+205,כן,כן,Kadima,19,Secular Centre
+206,מחל,מחל,Likud Yisrael Beiteinu,19,Right
+207,מרץ,מרץ,Meretz,19,Left
+208,נ,נ,Brit Olam,19,Micro
+209,ני,ני,Or,19,Micro
+210,נץ,נץ,Otzma LeYisrael,19,Right
+211,נק,נק,Leader,19,Micro
+212,עם,עם,United Arab List,19,Arab-Israeli
+213,פ,פ,Pirate Party,19,Micro
+214,פה,פה,Yesh Atid,19,Secular Centre
+215,פז,פז,Koah Lehashpi'a,19,Micro
+216,פי,פי,Finance Party,19,Micro
+217,פנ,פנ,We are Brothers,19,Micro
+218,פץ,פץ,We are all Friends,19,Micro
+219,ץ,ץ,Am Shalem,19,Orthodox
+220,צפ,צפ,Hatnua,19,Secular Centre
+221,צק,צק,Social Justice,19,Micro
+222,ק,ק,Da'am Workers Party,19,Micro
+223,קנ,קנ,Ale Yarok–The Liberal List,19,Sectoral
+224,רק,רק,The Greens and the Youth,19,Micro
+225,שס,שס,Shas,19,Orthodox
+226,אמת,אמת,Zionist Union,20,Left
+227,ג,ג,United Torah Judaism,20,Orthodox
+228,ודעם,ודעם,Joint List,20,Arab-Israeli
+229,ז,ז,Economy Party,20,Micro
+230,זך,זך,Democratura,20,Micro
+231,זץ,זץ,Brit Olam,20,Micro
+232,טב,טב,The Jewish Home,20,Right
+233,י,י,Living with Dignity,20,Micro
+234,יז,יז,Social Leadership,20,Micro
+235,יץ,יץ,Hope for Change,20,Micro
+236,כ,כ,Kulanu,20,Secular Centre
+237,ל,ל,Yisrael Beiteinu,20,Right
+238,מחל,מחל,Likud,20,Right
+239,מרצ,מרצ,Meretz,20,Left
+240,נז,נז,U'Bizchutan,20,Micro
+241,ני,ני,Or,20,Micro
+242,נץ,נץ,Flower Party,20,Micro
+243,ע,ע,Arab List (Mada–Arab National Party),20,Micro
+244,פה,פה,Yesh Atid,20,Secular Centre
+245,ף,ף,Pirate Party,20,Micro
+246,ףץ,ףץ,We Are All Friends Na Nach,20,Micro
+247,קנ,קנ,Ale Yarok,20,Sectoral
+248,קץ,קץ,Yachad,20,Orthodox
+249,רק,רק,The Greens,20,Micro
+250,שס,שס,Shas,20,Orthodox
+251,אמת,אמת,Labour Party,21,Left
+252,ג,ג,United Torah Judaism,21,Orthodox
+253,דעם,דעם,United Arab List–Balad,21,Arab-Israeli
+254,ום,ום,Hadash–Ta'al,21,Arab-Israeli
+255,ז,ז,Zehut,21,Right
+256,זי,זי,Veteran Civil,21,Micro
+257,זך,זך,Brit Olam,21,Micro
+258,זץ,זץ,Tzomet,21,Micro
+259,טב,טב,Union of Right-Wing Parties,21,Right
+260,י,י,Yashar,21,Micro
+261,יז,יז,Bible Bloc,21,Micro
+262,ין,ין,Ihud Bnei HaBrit,21,Micro
+263,יץ,יץ,Ahrayut LaMeyasdim,21,Micro
+264,כ,כ,Kulanu,21,Secular Centre
+265,ךק,ךק,Hope for Change,21,Micro
+266,ל,ל,Yisrael Beiteinu,21,Right
+267,מחל,מחל,Likud,21,Right
+268,מרצ,מרצ,Meretz,21,Left
+269,נ,נ,New Right,21,Right
+270,נז,נז,Zekhuyotenu BeKoleinu,21,Micro
+271,נץ,נץ,Shield of Israel,21,Micro
+272,נר,נר,Gesher,21,Secular Centre
+273,ן,ן,Social Security,21,Micro
+274,ןך,ןך,Human Dignity,21,Micro
+275,ןנ,ןנ,Social Leadership,21,Micro
+276,פה,פה,Blue and White,21,Secular Centre
+277,ףז,ףז,Pirate Party,21,Micro
+278,ףי,ףי,Pashut Ahava,21,Micro
+279,ףך,ףך,Education,21,Micro
+280,ףנ,ףנ,Shavim,21,Micro
+281,ףץ,ףץ,We are all friends Na Nach,21,Micro
+282,צק,צק,Social Justice,21,Micro
+283,ץ,ץ,Green Economy – One Nation,21,Micro
+284,ץי,ץי,Ani VeAta,21,Micro
+285,ק,ק,Justice for All,21,Micro
+286,קי,קי,Eretz Yisrael Shelanu,21,Micro
+287,קן,קן,MeHathala,21,Micro
+288,קף,קף,Kol Yisrael Ahim,21,Micro
+289,ר,ר,The Arab List (Mada–ANP),21,Micro
+290,שס,שס,Shas,21,Orthodox
+291,אמת,אמת,Labour–Gesher,22,Left
+292,ג,ג,United Torah Judaism,22,Orthodox
+293,ודעם,ודעם,Joint List,22,Arab-Israeli
+294,ז,ז,Economic Power,22,Micro
+295,זכ,זכ,Democracy Party,22,Micro
+296,זץ,זץ,Tzomet,22,Micro
+297,טב,טב,Yamina,22,Right
+298,י,י,Social Leadership,22,Micro
+299,יז,יז,Red and White,22,Micro
+300,ינ,ינ,Liberal Christian Movement,22,Micro
+301,יף,יף,Human Dignity,22,Micro
+302,יק,יק,Bible Bloc,22,Micro
+303,כי,כי,Popular Unity,22,Micro
+304,כף,כף,Otzma Yehudit,22,Right
+305,ל,ל,Yisrael Beiteinu,22,Right
+306,מחל,מחל,Likud,22,Right
+307,מרצ,מרצ,Democratic Union,22,Left
+308,נ,נ,Liberal Democratic Progressive Party,22,Micro
+309,נך,נך,Respect and Equality,22,Micro
+310,פה,פה,Blue and White,22,Secular Centre
+311,ףז,ףז,Pirate Party,22,Micro
+312,צ,צ,Justice,22,Micro
+313,צן,צן,North,22,Micro
+314,ץ,ץ,Da'am Workers Party,22,Micro
+315,ק,ק,Our Rights In Our Vote,22,Micro
+316,קך,קך,New Order,22,Micro
+317,קץ,קץ,Kama,22,Micro
+318,רק,רק,Secular Right,22,Micro
+319,שס,שס,Shas,22,Orthodox
+320,אמת,אמת,Labour-Gesher-Meretz,23,Left
+321,ג,ג,United Torah Judaism,23,Orthodox
+322,ודעם,ודעם,Joint List,23,Arab-Israeli
+323,ז,ז,Liberal–Economic Power,23,Micro
+324,טב,טב,Yamina,23,Right
+325,י,י,Vision,23,Micro
+326,יז,יז,Red and White,23,Micro
+327,ינ,ינ,Ihud HaBrit VeHaShutafut,23,Micro
+328,יף,יף,Human Dignity,23,Micro
+329,יק,יק,Bible Bloc,23,Micro
+330,יר,יר,Social Leadership,23,Micro
+331,כ,כ,Jewish Heart,23,Micro
+332,כן,כן,Me and You,23,Micro
+333,ל,ל,Yisrael Beiteinu,23,Right
+334,מחל,מחל,Likud,23,Right
+335,נ,נ,Women's Voice,23,Micro
+336,נז,נז,Koah Lehashpi'a,23,Micro
+337,ני,ני,Kama,23,Micro
+338,נץ,נץ,Otzma Yehudit,23,Micro
+339,נק,נק,Mitkademet,23,Micro
+340,פה,פה,Blue and White,23,Secular Centre
+341,ףז,ףז,The Pirates – For Democracy Click Here,23,Micro
+342,ץ,ץ,Da'am–Green Economy–One Nation,23,Micro
+343,ק,ק,Israelist – Our Rights in Our Vote,23,Micro
+344,קך,קך,New Order,23,Micro
+345,קץ,קץ,Mishpat Tzedek,23,Micro
+346,שס,שס,Shas,23,Orthodox
+347,אמת,אמת,Israeli Labour Party,24,Left
+348,ב,ב,Yamina,24,Right
+349,ג,ג,United Torah Judaism,24,Orthodox
+350,ודעם,ודעם,Joint List,24,Arab-Israeli
+351,ז,ז,The Israelis,24,Micro
+352,זץ,זץ,Tzomet,24,Micro
+353,ט,ט,Religious Zionist Party,24,Orthodox
+354,י,י,Social Bang – Pensioners,24,Micro
+355,יז,יז,New Economic Party,24,Micro
+356,ינ,ינ,Common Alliance,24,Micro
+357,יף,יף,Human Dignity,24,Micro
+358,יק,יק,Bible Bloc,24,Micro
+359,יר,יר,Social Leadership,24,Micro
+360,כ,כ,Jewish Heart,24,Micro
+361,כך,כך,Me and You,24,Micro
+362,כן,כן,Blue and White,24,Secular Centre
+363,ל,ל,Yisrael Beiteinu,24,Right
+364,מחל,מחל,Likud,24,Right
+365,מרצ,מרצ,Meretz,24,Left
+366,נ,נ,Kama,24,Micro
+367,ני,ני,New World,24,Micro
+368,נר,נר,Us,24,Micro
+369,עם,עם,United Arab List,24,Arab-Israeli
+370,פה,פה,Yesh Atid,24,Secular Centre
+371,ףז,ףז,Pirate Party,24,Micro
+372,צי,צי,Atzmeinu,24,Micro
+373,צכ,צכ,Ma'an – Together for a New Era,24,Micro
+374,צף,צף,Hetz,24,Micro
+375,ץ,ץ,Da'am Workers Party,24,Micro
+376,ק,ק,The Impossible – Possible,24,Micro
+377,קי,קי,Shama,24,Micro
+378,קך,קך,New Order,24,Micro
+379,קץ,קץ,Mishpat Tzedek,24,Micro
+380,ר,ר,Rapeh only Health,24,Micro
+381,רנ,רנ,Hope for Change,24,Micro
+382,רף,רף,Am Shalem,24,Micro
+383,שס,שס,Shas,24,Orthodox
+384,ת,ת,New Hope,24,Right
+385,אמת,אמת,Israeli Labour Party,25,Left
+386,אצ,אצ,Economic Freedom,25,Micro
+387,ב,ב,The Jewish Home,25,Right
+388,ג,ג,United Torah Judaism,25,Orthodox
+389,ד,ד,Balad,25,Arab-Israeli
+390,ום,ום,Hadash–Ta'al,25,Arab-Israeli
+391,ז,ז,Dawn Social Power,25,Micro
+392,זך,זך,Kama,25,Micro
+393,זנ,זנ,Koah Lehashpi'a,25,Micro
+394,זץ,זץ,Tzomet,25,Micro
+395,ט,ט,Religious Zionism-Otzma Yehudit,25,Orthodox
+396,י,י,Free Democratic Israel,25,Micro
+397,יז,יז,New Economic Party,25,Micro
+398,ינ,ינ,Common Alliance,25,Micro
+399,יץ,יץ,Order of the Hour,25,Micro
+400,יק,יק,Bible Bloc,25,Micro
+401,כן,כן,National Unity,25,Secular Centre
+402,ך,ך,Me and You,25,Micro
+403,ל,ל,Yisrael Beiteinu,25,Right
+404,מחל,מחל,Likud,25,Right
+405,מרצ,מרצ,Meretz,25,Left
+406,נז,נז,Respect for Humanity,25,Micro
+407,ני,ני,Nativ,25,Micro
+408,נף,נף,Shama,25,Micro
+409,נץ,נץ,The New Independents,25,Micro
+410,נק,נק,There’s a Direction,25,Micro
+411,נר,נר,Us,25,Micro
+412,עם,עם,United Arab List,25,Arab-Israeli
+413,פה,פה,Yesh Atid,25,Secular Centre
+414,ף,ף,Pirate Party,25,Micro
+415,צ,צ,Fiery Youth,25,Micro
+416,ץ,ץ,Social Leadership,25,Micro
+417,ק,ק,Voice of the Environment and the Living,25,Micro
+418,קי,קי,Jewish Heart,25,Micro
+419,קך,קך,New Order,25,Micro
+420,קנ,קנ,Every Vote Counts,25,Micro
+421,קץ,קץ,With Courage for You,25,Micro
+422,רז,רז,30/40,25,Micro
+423,שס,שס,Shas,25,Orthodox
+424,ת,ת,Ale Yarok–Islamic Family,25,Micro

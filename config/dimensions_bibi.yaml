@@ -1,0 +1,22 @@
+# Asked of plenary speeches that name Netanyahu ("נתניהו" or "ביבי"), other than the chair's. All wording is ours.
+
+netanyahu:
+  - id: bibi_attack
+    question: >-
+      Does the speaker attack Binyamin Netanyahu personally in this speech: his honesty, character, motives, fitness
+      for office, or conduct as a person? Disagreeing with his government's policy without attacking him as a person
+      does not count.
+    when_true: The speaker attacks Netanyahu as a person or as unfit for office.
+    when_false: The speaker does not attack Netanyahu personally, whatever they say about his policies.
+  - id: bibi_defend
+    question: >-
+      Does the speaker defend, praise or express loyalty to Binyamin Netanyahu personally in this speech: his
+      leadership, record, character or the attacks made on him?
+    when_true: The speaker defends, praises or stands by Netanyahu personally.
+    when_false: The speaker does not defend or praise Netanyahu personally.
+  - id: bibi_must_go
+    question: >-
+      Does the speaker call, in this speech, for Binyamin Netanyahu to resign, step down, be removed, or be replaced
+      as prime minister or party leader?
+    when_true: The speaker says Netanyahu should go.
+    when_false: The speaker makes no such call.

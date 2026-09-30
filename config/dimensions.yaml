@@ -1,0 +1,601 @@
+# The CHES-Israel 2021-22 questions, asked of packs. Score ends are CHES's 0 and 10. Items without a ches_variable
+# are ours. Rewording a question changes its prompt hash, and its stored answers stop counting.
+
+dimensions:
+- id: lrecon
+  kind: position
+  ches_variable: lrecon
+  gate:
+    instructions: Does the speaker express a view, in the text, on economic issues such as privatization, taxes,
+      regulation, government spending, or the welfare state?
+    when_true: The text expresses the speaker's own view on at least one such economic issue.
+    when_false: The text does not express a view on economic issues (they are absent, are only mentioned in passing
+      or procedurally, or the speaker only reports facts or other people's views about them without taking a side).
+  score:
+    instructions: Speakers can be classified in terms of their stance on ECONOMIC ISSUES such as privatization, taxes,
+      regulation, government spending, and the welfare state. Those on the economic left want government to play an
+      active role in the economy. Those on the economic right want a reduced role for government. Based only on the
+      views the speaker expresses in the text, where does the speaker stand on economic issues?
+    levels:
+    - 'Extreme left: wants government to play an active role in the economy, for example a strong role for government
+      in redistributing wealth, protecting jobs, and regulating business, and steeply progressive taxes to fund social
+      programs.'
+    - 'Left of center: leans toward an active role for government in the economy.'
+    - 'Center: between the two, or holds a mix of economic left and economic right positions.'
+    - 'Right of center: leans toward a reduced role for government in the economy.'
+    - 'Extreme right: wants a reduced role for government in the economy, for example small government, minimal
+      regulation of business, privatization of many government operations, and opposition to high taxes.'
+- id: lrecon_salience
+  kind: salience
+  ches_variable: lrecon_salience
+  gate_share_of: lrecon
+  score:
+    instructions: How important are ECONOMIC ISSUES (such as privatization, taxes, regulation, government spending,
+      and the welfare state) to the speaker in the text? Judge importance only by how much of the text the speaker
+      devotes to economic issues.
+    levels:
+    - 'No importance: economic issues do not come up in the text.'
+    - 'Little importance: economic issues are mentioned only briefly or in passing; the text is about other subjects.'
+    - 'Moderate importance: economic issues are a secondary subject: the speaker discusses them, but most of the text
+      is about other subjects.'
+    - 'High importance: economic issues are one of two or more main subjects that share the text about equally.'
+    - 'Great importance: economic issues are the main subject: most or all of the text is about them.'
+- id: galtan
+  kind: position
+  ches_variable: galtan
+  gate:
+    instructions: Does the speaker express a view, in the text, on social and cultural values, that is, on expanded
+      personal freedoms (for example abortion rights, divorce, same-sex marriage and LGBT rights, civil marriage,
+      or freedom from religious rules on the Sabbath, kashrut or conversion) or on whether the government should be
+      a firm moral authority upholding order, tradition and stability on social and cultural issues?
+    when_true: The text expresses the speaker's own view on at least one such social or cultural values issue.
+    when_false: The text does not express a view on social and cultural values (they are absent, are only mentioned
+      in passing or procedurally, or the speaker only reports facts or other people's views about them without taking
+      a side).
+  score:
+    instructions: Speakers can be classified in terms of their views on social and cultural values. "LIBERTARIAN" or
+      "POSTMATERIALIST" speakers favor expanded personal freedoms, for example, abortion rights, divorce, and same-sex
+      marriage. "TRADITIONAL" or "AUTHORITARIAN" speakers reject these ideas in favor of order, tradition, and
+      stability, believing that the government should be a firm moral authority on social and cultural issues. Based
+      only on the views the speaker expresses in the text, where does the speaker stand on libertarian/traditional
+      issues?
+    levels:
+    - 'Libertarian/postmaterialist: favors expanded personal freedoms, for example abortion rights, divorce, and
+      same-sex marriage.'
+    - 'Leans libertarian/postmaterialist: mostly favors expanded personal freedoms, with some reservations.'
+    - 'Center: between the two, or balances personal freedoms against order and tradition.'
+    - 'Leans traditional/authoritarian: mostly favors tradition and moral authority over expanded personal freedoms,
+      with some exceptions.'
+    - 'Traditional/authoritarian: rejects expanded personal freedoms (for example abortion rights, divorce, and same-sex
+      marriage) in favor of order, tradition, and stability, and believes the government should be a firm moral
+      authority on social and cultural issues.'
+- id: galtan_salience
+  kind: salience
+  ches_variable: galtan_salience
+  gate_share_of: galtan
+  score:
+    instructions: 'How important are LIBERTARIAN/TRADITIONAL issues to the speaker in the text? Libertarian/traditional
+      issues are issues of social and cultural values: expanded personal freedoms (for example abortion rights, divorce,
+      same-sex marriage and LGBT rights, civil marriage, or freedom from religious rules on the Sabbath, kashrut or
+      conversion) versus order, tradition and stability, with the government as a firm moral authority on social and
+      cultural issues. Judge importance only by how much of the text the speaker devotes to these issues.'
+    levels:
+    - 'No importance: libertarian/traditional issues (social and cultural values: personal freedoms vs. tradition
+      and moral authority) do not come up in the text.'
+    - 'Little importance: libertarian/traditional issues (social and cultural values: personal freedoms vs. tradition
+      and moral authority) are mentioned only briefly or in passing; the text is about other subjects.'
+    - 'Moderate importance: libertarian/traditional issues (social and cultural values: personal freedoms vs. tradition
+      and moral authority) are a secondary subject: the speaker discusses them, but most of the text is about other
+      subjects.'
+    - 'High importance: libertarian/traditional issues (social and cultural values: personal freedoms vs. tradition
+      and moral authority) are one of two or more main subjects that share the text about equally.'
+    - 'Great importance: libertarian/traditional issues (social and cultural values: personal freedoms vs. tradition
+      and moral authority) are the main subject: most or all of the text is about them.'
+- id: israel_palestine
+  kind: position
+  ches_variable: israel_palestine
+  gate:
+    instructions: Does the speaker express a view, in the text, on Israeli-Palestinian conflict issues, such as the
+      solution to the conflict, negotiations with the Palestinians (the PLO or the Palestinian Authority), the
+      settlements, withdrawal from or annexation of the territories, or a Palestinian state?
+    when_true: The text expresses the speaker's own view on at least one such Israeli-Palestinian conflict issue.
+    when_false: The text does not express a view on Israeli-Palestinian conflict issues (they are absent, are only
+      mentioned in passing or procedurally, or the speaker only reports facts or other people's views about them without
+      taking a side, or the speaker only discusses security incidents or military operations without a view on these
+      issues).
+  score:
+    instructions: Speakers can be classified in terms of their stance on Israeli-Palestinian conflict issues such as the
+      solution to the conflict, the settlements, and a Palestinian state. Those on the left support a peaceful solution
+      to the conflict, evacuation of the settlements, and a Palestinian state. Those on the right oppose negotiation
+      with the Palestinian Authority (or, before it existed, the PLO) and a Palestinian state, and support annexation of
+      the territories (applying Israeli sovereignty to them or keeping them permanently under Israeli rule). Based only
+      on the views the speaker expresses in the text, where does the speaker stand on Israeli-Palestinian conflict
+      issues?
+    levels:
+    - 'Left: supports a peaceful solution to the conflict (a negotiated agreement with the Palestinians), evacuation
+      of the settlements, and a Palestinian state.'
+    - 'Left of center: leans toward the left position, for example supports negotiations and territorial compromise
+      but not every left position.'
+    - 'Center: between the two, or holds a mix of left and right positions.'
+    - 'Right of center: leans toward the right position, for example is sceptical of negotiations or of territorial
+      withdrawal, or supports the settlements, but not every right position.'
+    - 'Right: opposes negotiation with the Palestinian Authority (or, before it existed, the PLO) and a Palestinian
+      state, and supports annexation of the territories (applying Israeli sovereignty to them or keeping them
+      permanently under Israeli rule).'
+- id: israel_palestine_salience
+  kind: salience
+  ches_variable: israel_palestine_salience
+  gate_share_of: israel_palestine
+  score:
+    instructions: How important are ISRAELI-PALESTINIAN CONFLICT ISSUES (such as the solution to the conflict,
+      negotiations with the Palestinians, the settlements, and a Palestinian state) to the speaker in the text? Judge
+      importance only by how much of the text the speaker devotes to these issues.
+    levels:
+    - 'No importance: Israeli-Palestinian conflict issues do not come up in the text.'
+    - 'Little importance: Israeli-Palestinian conflict issues are mentioned only briefly or in passing; the text is
+      about other subjects.'
+    - 'Moderate importance: Israeli-Palestinian conflict issues are a secondary subject: the speaker discusses them,
+      but most of the text is about other subjects.'
+    - 'High importance: Israeli-Palestinian conflict issues are one of two or more main subjects that share the text
+      about equally.'
+    - 'Great importance: Israeli-Palestinian conflict issues are the main subject: most or all of the text is about
+      them.'
+- id: lrgen
+  kind: position
+  ches_variable: lrgen
+  gate:
+    instructions: Does the speaker express, in the text, a view on an issue that divides left and right in Israeli
+      politics, for example the Israeli-Palestinian conflict and security policy, the settlements, religion and state,
+      the Jewish and democratic character of the state, the rights of the Arab minority, the power of the courts,
+      or the role of government in the economy?
+    when_true: The text expresses the speaker's own view on at least one issue that divides left and right in Israeli
+      politics.
+    when_false: The text expresses no view on such an issue (for example it is procedural, ceremonial, purely factual
+      or technical, personal, or about a matter on which left and right do not differ).
+  score:
+    instructions: 'In Israeli politics, ''left'' and ''right'' refer first of all to the Israeli-Palestinian conflict,
+      territory and security: the left favours a negotiated settlement and territorial compromise, the right opposes
+      them and favours keeping the territories. Secondly they refer to identity: the left stresses liberal, civic
+      and secular values, the right stresses Jewish national and traditional values. Economic policy plays only a
+      minor part. Based only on the views the speaker expresses in the text, which level best describes the speaker''s
+      OVERALL IDEOLOGY, on a scale ranging from extreme left to extreme right as left and right are understood in
+      Israeli politics?'
+    levels:
+    - 'Extreme left: consistently and strongly takes the left''s positions as just described.'
+    - 'Left of center: leans toward the left''s positions.'
+    - 'Center: between the two, or a mix of left and right positions.'
+    - 'Right of center: leans toward the right''s positions.'
+    - 'Extreme right: consistently and strongly takes the right''s positions as just described.'
+- id: jewish_immigration
+  kind: position
+  ches_variable: jewish_immigration
+  gate:
+    instructions: Does the speaker express a view, in the text, on policy toward Jewish immigration to Israel (Aliyah),
+      including who should be entitled to immigrate under the Law of Return (for example the 'grandchild clause' or
+      the recognition of conversions)?
+    when_true: The text expresses the speaker's own view on policy toward Jewish immigration (Aliyah).
+    when_false: The text does not express a view on Jewish immigration policy (it is absent, is only mentioned in
+      passing or procedurally, or the speaker only reports facts or other people's views about it without taking a
+      side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, where does the speaker stand on Jewish
+      immigration (Aliyah)?
+    levels:
+    - Strongly favors a liberal policy on Jewish immigration (for example encouraging Aliyah and keeping or widening
+      eligibility under the Law of Return).
+    - Somewhat favors a liberal policy on Jewish immigration.
+    - Neutral or mixed position on Jewish immigration policy.
+    - Somewhat favors a restrictive policy on Jewish immigration.
+    - Strongly favors a restrictive policy on Jewish immigration (for example narrowing eligibility under the Law
+      of Return, or opposing the Law of Return itself).
+- id: non_jewish_immigration
+  kind: position
+  ches_variable: non_jewish_immigration
+  gate:
+    instructions: Does the speaker express a view, in the text, on policy toward non-Jewish immigration to Israel
+      (for example asylum seekers, migrant workers, or family reunification)?
+    when_true: The text expresses the speaker's own view on policy toward non-Jewish immigration.
+    when_false: The text does not express a view on non-Jewish immigration policy (it is absent, is only mentioned
+      in passing or procedurally, or the speaker only reports facts or other people's views about it without taking
+      a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position toward
+      non-Jewish immigration policy?
+    levels:
+    - Strongly favors a liberal policy on non-Jewish immigration.
+    - Somewhat favors a liberal policy on non-Jewish immigration.
+    - Neutral or mixed position on non-Jewish immigration policy.
+    - Somewhat favors a restrictive policy on non-Jewish immigration.
+    - Strongly favors a restrictive policy on non-Jewish immigration.
+- id: multiculturalism
+  kind: position
+  ches_variable: multiculturalism
+  gate:
+    instructions: Does the speaker express a view, in the text, on how non-Jewish immigrants and asylum seekers should
+      be integrated into Israeli society (multiculturalism vs. assimilation)?
+    when_true: The text expresses the speaker's own view on the integration of non-Jewish immigrants or asylum seekers.
+    when_false: The text does not express a view on the integration of non-Jewish immigrants and asylum seekers (it
+      is absent, is only mentioned in passing or procedurally, or the speaker only reports facts or other people's
+      views about it without taking a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position on the
+      integration of non-Jewish immigrants and asylum seekers (multiculturalism vs. assimilation)?
+    levels:
+    - Strongly favors multiculturalism.
+    - Somewhat favors multiculturalism.
+    - Neutral or mixed position between multiculturalism and assimilation.
+    - Somewhat favors assimilation.
+    - Strongly favors assimilation.
+- id: redistribution
+  kind: position
+  ches_variable: redistribution
+  gate:
+    instructions: Does the speaker express a view, in the text, on redistribution of wealth or income from the rich
+      to the poor?
+    when_true: The text expresses the speaker's own view on redistribution of wealth or income.
+    when_false: The text does not express a view on redistribution (it is absent, is only mentioned in passing or
+      procedurally, or the speaker only reports facts or other people's views about it without taking a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, where does the speaker stand on
+      redistribution of wealth or income from the rich to the poor?
+    levels:
+    - Strongly favors redistribution.
+    - Somewhat favors redistribution.
+    - Neutral or mixed position on redistribution.
+    - Somewhat opposes redistribution.
+    - Strongly opposes redistribution.
+- id: environment
+  kind: position
+  ches_variable: environment
+  gate:
+    instructions: Does the speaker express a view, in the text, on environmental sustainability or environmental
+      protection, including the trade-off between environmental protection and economic growth?
+    when_true: The text expresses the speaker's own view on environmental sustainability, environmental protection,
+      or the trade-off between environmental protection and economic growth.
+    when_false: The text does not express a view on environmental issues (they are absent, are only mentioned in passing
+      or procedurally, or the speaker only reports facts or other people's views about them without taking a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position towards
+      environmental sustainability (environmental protection vs. economic growth)?
+    levels:
+    - Strongly supports environmental protection even at the cost of economic growth.
+    - Somewhat prioritizes environmental protection over economic growth.
+    - Neutral or mixed position between environmental protection and economic growth.
+    - Somewhat prioritizes economic growth over environmental protection.
+    - Strongly supports economic growth even at the cost of environmental protection.
+- id: spendvtax
+  kind: position
+  ches_variable: spendvtax
+  gate:
+    instructions: Does the speaker express a view, in the text, on improving public services, on reducing taxes, or
+      on the trade-off between them?
+    when_true: The text expresses the speaker's own view on improving public services or on reducing taxes.
+    when_false: The text does not express a view on public services or taxes (they are absent, are only mentioned
+      in passing or procedurally, or the speaker only reports facts or other people's views about them without taking
+      a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position on improving
+      public services vs. reducing taxes?
+    levels:
+    - Strongly favors improving public services, even if it means higher taxes.
+    - Somewhat favors improving public services over reducing taxes.
+    - Neutral or mixed position between improving public services and reducing taxes.
+    - Somewhat favors reducing taxes over improving public services.
+    - Strongly favors reducing taxes, even if it means less spending on public services.
+- id: civlib
+  kind: position
+  ches_variable: civlib
+  gate:
+    instructions: Does the speaker express a view, in the text, on civil liberties versus law and order, that is,
+      on how far individual rights and freedoms (for example freedom of speech and protest, privacy, due process,
+      limits on detention, surveillance and police powers) may be restricted in order to fight crime or terrorism
+      and keep order?
+    when_true: The text expresses the speaker's own view on civil liberties, on tough law-and-order measures, or on
+      the balance between them.
+    when_false: The text expresses no such view (the subject is absent or only mentioned in passing, or the speaker
+      only complains about crime or calls for more or better policing without addressing rights and freedoms).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position on civil
+      liberties vs. law and order?
+    levels:
+    - Strongly favors civil liberties, even at the cost of weaker law enforcement.
+    - Somewhat favors civil liberties over tough law-and-order measures.
+    - Neutral or mixed position between civil liberties and law and order.
+    - Somewhat favors tough measures to fight crime over civil liberties.
+    - Strongly favors tough measures to fight crime, even at the cost of civil liberties.
+- id: abortion
+  kind: position
+  ches_variable: abortion
+  gate:
+    instructions: Does the speaker express a view on abortion in the text?
+    when_true: The text expresses the speaker's own view on abortion.
+    when_false: The text does not express a view on abortion (it is absent, is only mentioned in passing or
+      procedurally, or the speaker only reports facts or other people's views about it without taking a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position towards
+      abortion?
+    levels:
+    - Strongly opposes restrictions on abortion (wants abortion to be legal and accessible).
+    - Somewhat opposes restrictions on abortion.
+    - Neutral or mixed position on abortion.
+    - Somewhat supports restrictions on abortion.
+    - Strongly supports restrictions on abortion (wants abortion to be limited or banned).
+- id: jewish_settlements
+  kind: position
+  ches_variable: jewish_settlements
+  gate:
+    instructions: Does the speaker express a view, in the text, on the Jewish settlements in Judea and Samaria (the
+      West Bank) or the Gaza Strip?
+    when_true: The text expresses the speaker's own view on the Jewish settlements.
+    when_false: The text does not express a view on the Jewish settlements (they are absent, are only mentioned in
+      passing or procedurally, or the speaker only reports facts or other people's views about them without taking
+      a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position towards
+      the Jewish settlements in Judea and Samaria (the West Bank) or the Gaza Strip?
+    levels:
+    - Strongly favors evacuation of the Jewish settlements.
+    - Somewhat favors evacuation of the Jewish settlements.
+    - Neutral or mixed position on the Jewish settlements.
+    - Somewhat favors increasing and supporting the settlements.
+    - Strongly favors increasing and supporting the settlements.
+- id: palestinian_state
+  kind: position
+  ches_variable: palestinian_state
+  gate:
+    instructions: Does the speaker express a view, in the text, on the establishment of a Palestinian state?
+    when_true: The text expresses the speaker's own view on a Palestinian state.
+    when_false: The text does not express a view on a Palestinian state (it is absent, is only mentioned in passing
+      or procedurally, or the speaker only reports facts or other people's views about it without taking a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position towards
+      a Palestinian state?
+    levels:
+    - Strongly favors a Palestinian state.
+    - Somewhat favors a Palestinian state.
+    - Neutral or mixed position on a Palestinian state.
+    - Somewhat opposes a Palestinian state.
+    - Strongly opposes a Palestinian state.
+- id: democratic_v_jewish_state
+  kind: position
+  ches_variable: democratic_v_jewish_state
+  gate:
+    instructions: Does the speaker express a view, in the text, on the tension between Israel as a "democratic" state
+      and as a "Jewish" state, for example on equal rights for non-Jewish Israelis, the special status of Judaism
+      in public life (such as the Law of Return and the status quo agreement), or governing the state by Torah law?
+    when_true: The text expresses the speaker's own view on the democratic vs. Jewish character of the state.
+    when_false: The text does not express the speaker's own view on the democratic vs. Jewish character of the state
+      (it is absent, only mentioned in passing or procedurally, or the text is about democracy in another sense, such
+      as majority rule, elections or the courts, without reference to the Jewish character of the state or the status
+      of non-Jewish Israelis).
+  score:
+    instructions: Speakers can be classified in terms of their stance on the tension between a "Democratic" and a
+      "Jewish" state. Those on the "Democratic" extreme believe in equal rights and treatment to all Israelis, whether
+      Jewish or not, and elimination of the special status of Judaism in public life (such as the Law of Return and
+      the status quo agreement). Those on the "Jewish" extreme believe that Israel is the homeland of the Jewish people,
+      that Jewish culture should guide public life, and that the state should be governed by the Torah laws (Medinat
+      Halacha). Based only on the views the speaker expresses in the text, where does the speaker stand on democratic
+      vs. Jewish issues?
+    levels:
+    - 'Strongly supports a democratic state: equal rights and treatment for all Israelis, whether Jewish or not, and
+      elimination of the special status of Judaism in public life (such as the Law of Return and the status quo
+      agreement).'
+    - 'Leans toward a democratic state: where the two conflict, gives more weight to equal rights for all citizens
+      than to the state''s Jewish character.'
+    - 'Equally Jewish and democratic state: where the two conflict, gives neither priority.'
+    - 'Leans toward a Jewish state: where the two conflict, gives more weight to the state''s Jewish character (the
+      homeland of the Jewish people, Jewish culture guiding public life) than to equal treatment of non-Jews, without
+      calling for Torah law.'
+    - 'Strongly supports a Jewish (Halacha) state: Israel is the homeland of the Jewish people, Jewish culture should
+      guide public life, and the state should be governed by the Torah laws (Medinat Halacha).'
+- id: gender_equality
+  kind: position
+  ches_variable: gender_equality
+  gate:
+    instructions: Does the speaker express a view, in the text, on policies supporting gender equality (e.g. family
+      leave, equal pay)?
+    when_true: The text expresses the speaker's own view on policies supporting gender equality.
+    when_false: The text does not express a view on gender equality policies (they are absent, are only mentioned
+      in passing or procedurally, or the speaker only reports facts or other people's views about them without taking
+      a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position toward
+      policies supporting gender equality (e.g. family leave, equal pay)?
+    levels:
+    - Strongly supports policies promoting gender equality.
+    - Somewhat supports policies promoting gender equality.
+    - Neutral or mixed position on policies promoting gender equality.
+    - Somewhat opposes policies promoting gender equality.
+    - Strongly opposes policies promoting gender equality.
+- id: arab_world
+  kind: position
+  ches_variable: arab_world
+  gate:
+    instructions: Does the speaker express a view, in the text, on Israel's diplomatic engagement with Arab countries
+      (the Arab world)?
+    when_true: The text expresses the speaker's own view on diplomatic engagement with Arab countries.
+    when_false: The text does not express a view on diplomatic engagement with Arab countries (it is absent, is only
+      mentioned in passing or procedurally, or the speaker only reports facts or other people's views about it without
+      taking a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position toward
+      the Arab world?
+    levels:
+    - Strongly supports diplomatic engagement with Arab countries.
+    - Somewhat supports diplomatic engagement with Arab countries.
+    - Neutral or mixed position on diplomatic engagement with Arab countries.
+    - Somewhat opposes diplomatic engagement with Arab countries.
+    - Strongly opposes diplomatic engagement with Arab countries.
+- id: religious_principles
+  kind: position
+  ches_variable: religious_principles
+  gate:
+    instructions: Does the speaker express a view, in the text, on the role of religious principles (of any religion)
+      in politics, for example on religion-and-state issues such as religious legislation, Sabbath observance in public,
+      marriage and divorce, conversion, kashrut, the powers of the rabbinate and religious courts, military service
+      of yeshiva students, or separation of religion and state?
+    when_true: The text expresses the speaker's own view on the role of religious principles in politics or on a
+      religion-and-state issue.
+    when_false: The text does not express a view on the role of religious principles in politics (it is absent, is
+      only mentioned in passing or procedurally, or the speaker only reports facts or other people's views about it
+      without taking a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position on the
+      role of religious principles in politics?
+    levels:
+    - Strongly opposes religious principles in politics.
+    - Somewhat opposes religious principles in politics.
+    - Neutral or mixed position on religious principles in politics.
+    - Somewhat supports religious principles in politics.
+    - Strongly supports religious principles in politics.
+- id: anti_islam_rhetoric
+  kind: salience
+  ches_variable: anti_islam_rhetoric
+  score:
+    instructions: How important is ANTI-ISLAM RHETORIC used by the speaker in the text? Anti-Islam rhetoric means
+      the speaker's own hostility toward, fear of, or negative generalizations about Islam as a religion or Muslims
+      as a group, including portraying people, parties or movements as dangerous or illegitimate because they are
+      Muslim or Islamic. Hostility aimed only at specific armed organizations or foreign regimes (for example Hamas,
+      Islamic Jihad, Hezbollah, ISIS or Iran) does not count; it counts only when the speaker extends it to Islam
+      or Muslims in general. The speaker reporting, quoting or condemning anti-Islam statements made by others does
+      not count either.
+    levels:
+    - 'Not important at all: the speaker uses no anti-Islam rhetoric (Islam or Muslims are not mentioned, are mentioned
+      only neutrally or positively, or the speaker only reports or condemns anti-Islam statements made by others).'
+    - 'Slightly important: the speaker makes one brief or passing anti-Islam remark.'
+    - 'Moderately important: the speaker makes several anti-Islam remarks, but they are a small part of the text.'
+    - 'Very important: the speaker''s anti-Islam rhetoric runs through a large part of the text.'
+    - 'Extremely important: most of the text consists of the speaker''s anti-Islam rhetoric.'
+- id: people_vs_elite
+  kind: position
+  ches_variable: people_vs_elite
+  gate:
+    instructions: Does the speaker express a view, in the text, on whether the most important political decisions should
+      be made directly by 'the people' (for example by voting in a referendum) rather than by elected representatives?
+    when_true: The text expresses the speaker's own view on direct decision-making by 'the people' (for example a
+      referendum) versus decisions by elected representatives.
+    when_false: The text expresses no such view. This includes texts that only set elected officials against courts,
+      judges, legal advisers or civil servants, that only invoke the election result, the majority or 'the will of
+      the people', or that only call for new elections.
+  score:
+    instructions: Some speakers believe that ELECTED REPRESENTATIVES should make the most important political decisions.
+      At the opposite pole are speakers who take the position that 'THE PEOPLE' should have the final say on the most
+      important issues, for example, by voting directly in referendums. Based only on the views the speaker expresses
+      in the text, where does the speaker fall on this dimension?
+    levels:
+    - Elected office holders should make the most important decisions.
+    - Leans toward elected office holders making the most important decisions.
+    - Neutral or mixed position between the two.
+    - Leans toward 'the people', not politicians, making the most important decisions.
+    - '''The people'', not politicians, should make the most important decisions.'
+- id: antielite_salience
+  kind: salience
+  ches_variable: antielite_salience
+  score:
+    instructions: 'How important is ANTI-ESTABLISHMENT or ANTI-ELITE RHETORIC used by the speaker in the text? Such
+      rhetoric means the speaker portraying ''the establishment'' or ''the elites'' as a group (for example political,
+      judicial, legal, media, economic or academic elites, or senior officials) as self-serving, corrupt, or out of
+      touch with ordinary people. The following do not count: ordinary criticism of a specific government, minister,
+      party, policy, institution or court ruling; and the speaker reporting or condemning such rhetoric by others.'
+    levels:
+    - 'Not important at all: the speaker uses no anti-establishment or anti-elite rhetoric.'
+    - 'Slightly important: the speaker makes one brief or passing anti-establishment or anti-elite remark.'
+    - 'Moderately important: the speaker makes several such remarks, but they are a small part of the text.'
+    - 'Very important: the speaker''s anti-establishment or anti-elite rhetoric runs through a large part of the text.'
+    - 'Extremely important: most of the text consists of the speaker''s anti-establishment or anti-elite rhetoric.'
+- id: corrupt_salience
+  kind: salience
+  ches_variable: corrupt_salience
+  score:
+    instructions: How important is REDUCING POLITICAL CORRUPTION to the speaker in the text? This means the speaker
+      calling for corruption in politics or government (for example bribery, fraud, breach of trust or abuse of public
+      office) to be fought, reduced or prevented, including demanding that politicians or officials suspected of
+      corruption be investigated, put on trial, resign or be barred from office. Judge importance only by how much of
+      the text the speaker devotes to such calls.
+    levels:
+    - 'Not important at all: the speaker makes no call to fight or reduce political corruption (mentioning corruption,
+      calling an opponent corrupt without demanding any action, or denying or defending against corruption allegations
+      does not count).'
+    - 'Slightly important: one brief or passing call to fight or reduce political corruption.'
+    - 'Moderately important: such calls are a secondary subject; most of the text is about other subjects.'
+    - 'Very important: such calls are one of two or more main subjects of the text.'
+    - 'Extremely important: such calls are the main subject: most or all of the text is about them.'
+- id: ukraine_support
+  kind: position
+  ches_variable: ukraine_support
+  valid_from: '2022-02-24'
+  gate:
+    instructions: Does the speaker express a view, in the text, on Israel sending weapons and military equipment to
+      support the Ukrainian army?
+    when_true: The text expresses the speaker's own view on Israel sending military aid to Ukraine.
+    when_false: The text does not express a view on Israel sending military aid to Ukraine (it is absent, is only
+      mentioned in passing or procedurally, or the speaker only reports facts or other people's views about it without
+      taking a side).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position toward
+      Israel sending weapons and military equipment to support the Ukrainian army?
+    levels:
+    - Strongly opposed to sending military aid to Ukraine.
+    - Somewhat opposed to sending military aid to Ukraine.
+    - Neutral or mixed position on sending military aid to Ukraine.
+    - Somewhat supports sending military aid to Ukraine.
+    - Strongly supports sending military aid to Ukraine.
+- id: anti_arab_sentiment
+  kind: salience
+  score:
+    instructions: 'How prominent is ANTI-ARAB SENTIMENT expressed by the speaker in the text? Anti-Arab sentiment means
+      the speaker''s own hostility toward, fear of, or negative generalizations about Arabs as a group (including Arab
+      citizens of Israel, or Palestinians as a people), including portraying Arab citizens, Arab voters or Arab members
+      of Knesset collectively as disloyal, a fifth column or supporters of terror. The following do not count: criticism
+      of a specific person, organization (for example Hamas or Hezbollah) or government for specific statements or
+      actions, unless the speaker extends it to Arabs in general; and the speaker reporting, quoting or condemning
+      anti-Arab statements made by others.'
+    levels:
+    - 'Not present at all: the speaker expresses no anti-Arab sentiment (Arabs are not mentioned, are mentioned only
+      neutrally or positively, or the speaker only reports or condemns anti-Arab statements made by others).'
+    - 'Slightly present: the speaker makes one brief or passing anti-Arab remark.'
+    - 'Moderately present: the speaker makes several anti-Arab remarks, but they are a small part of the text.'
+    - 'Very present: the speaker''s own anti-Arab sentiment runs through a large part of the text.'
+    - 'Extremely present: most of the text consists of the speaker''s own anti-Arab sentiment.'
+- id: judicial_power
+  kind: position
+  gate:
+    instructions: Does the speaker express a view, in the text, on the balance of power between the courts and legal
+      establishment and the Knesset and government, for example the Supreme Court's (High Court of Justice's) authority
+      to review or strike down laws and government decisions, a Knesset override of court rulings, how judges are
+      appointed, or the powers of the Attorney General and government legal advisers?
+    when_true: The text expresses the speaker's own view on the balance of power between the courts and legal
+      establishment and the Knesset and government.
+    when_false: The text expresses no such view (the subject is absent or only mentioned in passing, or the text
+      concerns only a particular criminal case, the ordinary work of the courts, or religious courts).
+  score:
+    instructions: Based only on the views the speaker expresses in the text, what is the speaker's position on the
+      balance of power between the courts and legal establishment and the Knesset and government?
+    levels:
+    - Strongly favors preserving or expanding the power and independence of the courts and the legal establishment,
+      for example judicial review of laws and government decisions, binding legal advice, and judicial appointments
+      free of political control.
+    - Somewhat favors preserving the power and independence of the courts and the legal establishment.
+    - Neutral or mixed position, for example supports only limited or agreed changes.
+    - Somewhat favors shifting power from the courts and the legal establishment to the Knesset and the government.
+    - Strongly favors shifting power from the courts and the legal establishment to the Knesset and the government,
+      for example restricting judicial review, letting the Knesset override court rulings, giving elected politicians
+      control over appointing judges, or making legal advice non-binding.
+- id: judicial_salience
+  kind: salience
+  gate_share_of: judicial_power
+  score:
+    instructions: How important are issues concerning the courts and the legal system (for example the Supreme Court's
+      authority to review laws and government decisions, a Knesset override of court rulings, how judges are appointed,
+      or the powers of the Attorney General and legal advisers) to the speaker in the text? Judge importance only
+      by how much of the text the speaker devotes to these issues.
+    levels:
+    - 'No importance: issues concerning the courts and the legal system do not come up in the text.'
+    - 'Little importance: issues concerning the courts and the legal system are mentioned only briefly or in passing;
+      the text is about other subjects.'
+    - 'Moderate importance: issues concerning the courts and the legal system are a secondary subject: the speaker
+      discusses them, but most of the text is about other subjects.'
+    - 'High importance: issues concerning the courts and the legal system are one of two or more main subjects that
+      share the text about equally.'
+    - 'Great importance: issues concerning the courts and the legal system are the main subject: most or all of the
+      text is about them.'

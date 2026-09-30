@@ -1,0 +1,46 @@
+ches_year,ches_party_id,ches_party_name,cluster_id,knesset,faction_id,faction_name,speaker_ids,date_from,date_to,note
+2022,9712,Meretz,meretz,24,89,מרצ,,2022-01-01,2022-11-14,"Meretz won no seats in K25, so its 2022-wave speech is K24 only. Ghaida Rinawie Zoabi (30805) briefly quit the coalition in May 2022 but stayed in the faction"
+2022,9716,Balad,jointlist_family,24,138,הרשימה המשותפת,30751,2022-01-01,2022-11-14,Balad's only K24 MK inside the Joint List faction: Sami Abu Shehadeh 30751. Balad won no seats in K25. A single MK: check the sufficiency flags
+2021,9701,Likud,likud,24,31,הליכוד,,2021-04-06,2021-12-31,"Apr-Jun 2021 includes ~1,300 words by Ofir Sofer (RZ politician elected on the Likud list; moved to RZ 2021-06-27)"
+2021,9702,Yesh Atid,yesh_atid,24,136,יש עתיד,,2021-04-06,2021-12-31,
+2021,9703,Shas,shas,24,75,התאחדות הספרדים שומרי תורה,,2021-04-06,2021-12-31,
+2021,9704,B&W,bw_nh_statecamp,24,142,כחול לבן,,2021-04-06,2021-12-31,Blue & White faction (Gantz). Ministers who resigned their seats under the Norwegian Law have no faction in the corpus and are not included
+2021,9705,Yamina,yamina,24,140,ימינה,,2021-04-06,2021-12-31,"Whole Yamina faction. Amichai Chikli (30786) voted against the government from June 2021 but stayed in the faction until declared a defector 2022-04-25 (then faction 147, not included); Idit Silman (30718) left the coalition 2022-04-06 but stayed in the faction (affects only the fieldwork / whole_term windows)"
+2021,9706,Labor,labor,24,35,העבודה,,2021-04-06,2021-12-31,
+2021,9707,UTJ,utj,24,90,יהדות התורה,,2021-04-06,2021-12-31,UTJ faction; from 2022-08-15 the corpus relabels it 'Agudat Yisrael/Degel HaTorah' and then splits it (rows below)
+2021,9708,YB,yisrael_beiteinu,24,110,ישראל ביתנו,,2021-04-06,2021-12-31,Eli Avidar (30723) was a rebel inside the faction from mid-2021 but never left it
+2021,9709,RZ,rz,24,111,האיחוד הלאומי,,2021-04-06,2021-12-31,"Religious Zionism list (RZ + Otzma Yehudit's Ben Gvir + Noam's Maoz sat as ONE faction); all plenary speech of the list in K24 carries this id. Ofir Sofer (30717) sat formally in Likud until 2021-06-27 and is not included before that. Avi Maoz's speech is unmatched in the corpus (no MK id), so Noam is effectively absent"
+2021,9710,Joint List,jointlist_family,24,138,הרשימה המשותפת,,2021-04-06,2021-12-31,"Whole Joint List faction (Hadash: Odeh, Touma-Sliman, Cassif; Ta'al: Tibi, Saadi; Balad: Abu Shehadeh). Ra'am ran separately (faction 101)"
+2021,9711,New Hope,bw_nh_statecamp,24,146,תקווה חדשה,,2021-04-06,2021-12-31,"New Hope faction. Sa'ar, Elkin, Hendel resigned their seats under the Norwegian Law in mid-2021 (no faction in the corpus afterwards); Zvi Hauser is unmatched in the corpus"
+2021,9712,Meretz,meretz,24,89,מרצ,,2021-04-06,2021-12-31,
+2021,9713,Ra'am,raam,24,101,הרשימה הערבית המאוחדת (2),,2021-04-06,2021-12-31,
+2022,9701,Likud,likud,24,31,הליכוד,,2022-01-01,2022-11-14,
+2022,9701,Likud,likud,25,31,הליכוד,,2022-11-15,2022-12-31,K25 Likud includes Amichai Chikli and Idit Silman (ex-Yamina)
+2022,9702,Yesh Atid,yesh_atid,24,136,יש עתיד,,2022-01-01,2022-11-14,
+2022,9702,Yesh Atid,yesh_atid,25,136,יש עתיד,,2022-11-15,2022-12-31,
+2022,9703,Shas,shas,24,75,התאחדות הספרדים שומרי תורה,,2022-01-01,2022-11-14,
+2022,9703,Shas,shas,25,75,התאחדות הספרדים שומרי תורה,,2022-11-15,2022-12-31,
+2022,9706,Labor,labor,24,35,העבודה,,2022-01-01,2022-11-14,
+2022,9706,Labor,labor,25,35,העבודה,,2022-11-15,2022-12-31,
+2022,9707,UTJ,utj,24,90,יהדות התורה,,2022-01-01,2022-11-14,UTJ faction; from 2022-08-15 the corpus relabels it 'Agudat Yisrael/Degel HaTorah' and then splits it (rows below)
+2022,9707,UTJ,utj,24,18,אגודת ישראל,,2022-01-01,2022-11-14,"Agudat Yisrael half of UTJ after the faction formally split on 2022-08-15 (Eichler, Porush, Tessler)"
+2022,9707,UTJ,utj,24,83,דגל התורה,,2022-01-01,2022-11-14,"Degel HaTorah half of UTJ after the 2022-08-15 split (Gafni, Maklev, Asher)"
+2022,9707,UTJ,utj,24,82,מולדת,30672,2022-01-01,2022-11-14,"CORPUS MISLABEL: Yitzhak Pindrus (Degel HaTorah, UTJ) carries faction_id 82 (=Moledet) after the 2022-08-15 split; restricted to him"
+2022,9707,UTJ,utj,25,90,יהדות התורה,,2022-11-15,2022-12-31,
+2022,9708,YB,yisrael_beiteinu,24,110,ישראל ביתנו,,2022-01-01,2022-11-14,Eli Avidar (30723) was a rebel inside the faction but never formally left it
+2022,9708,YB,yisrael_beiteinu,25,110,ישראל ביתנו,,2022-11-15,2022-12-31,
+2022,9709,RZ,rz,24,111,האיחוד הלאומי,,2022-01-01,2022-11-14,"Religious Zionism list (RZ + Otzma Yehudit's Ben Gvir + Noam's Maoz sat as ONE faction); all plenary speech of the list in K24 carries this id. Ofir Sofer (30717) sat formally in Likud until 2021-06-27 and is not included before that. Avi Maoz's speech is unmatched in the corpus (no MK id), so Noam is effectively absent"
+2022,9709,RZ,rz,24,148,עוצמה יהודית,,2022-01-01,2022-11-14,Otzma Yehudit after Ben Gvir formally split from the RZ faction (2022-07-03); kept so the list stays whole. No plenary MK speech carries this id in K24
+2022,9709,RZ,rz,24,150,נעם,,2022-01-01,2022-11-14,Noam after Maoz formally split from the RZ faction (2022-08-15); kept so the list stays whole. No plenary MK speech carries this id (Maoz is unmatched in the corpus)
+2022,9709,RZ,rz,25,111,האיחוד הלאומי,,2022-11-15,2022-12-31,RZ faction in K25 (corpus name 'National Union'); 2022-11-15..20 it still held the whole RZ-Otzma-Noam list
+2022,9709,RZ,rz,25,148,עוצמה יהודית,,2022-11-15,2022-12-31,"Otzma Yehudit, elected on the joint RZ list that CHES 2022 rated; separate faction from 2022-11-20. JUDGEMENT CALL: included (see docs/CROSSWALK_NOTES.md)"
+2022,9709,RZ,rz,25,150,נעם,,2022-11-15,2022-12-31,"Noam (Maoz), elected on the joint RZ list; separate faction from 2022-11-20. No matched speech in the corpus"
+2022,9713,Ra'am,raam,24,101,הרשימה הערבית המאוחדת (2),,2022-01-01,2022-11-14,
+2022,9713,Ra'am,raam,25,101,הרשימה הערבית המאוחדת (2),,2022-11-15,2022-12-31,
+2022,9714,StateCamp,bw_nh_statecamp,24,142,כחול לבן,,2022-01-01,2022-11-14,Blue & White MKs of K24 (State Camp alliance formed 2022-07-10; the factions stayed separate in K24). JUDGEMENT CALL: Jan-Jul 2022 speech predates the alliance
+2022,9714,StateCamp,bw_nh_statecamp,24,146,תקווה חדשה,,2022-01-01,2022-11-14,New Hope MKs of K24 (second founding component of State Camp)
+2022,9714,StateCamp,bw_nh_statecamp,24,149,המחנה הממלכתי,,2022-01-01,2022-11-14,State Camp faction inside K24: Matan Kahana and Shirly Pinto after leaving Yamina (2022-08-15)
+2022,9714,StateCamp,bw_nh_statecamp,25,149,המחנה הממלכתי,,2022-11-15,2022-12-31,State Camp / National Unity faction in K25
+2022,9715,Hadash-Ta'al,jointlist_family,24,138,הרשימה המשותפת,30066;30067;30719;560;30070,2022-01-01,2022-11-14,"Hadash and Ta'al MKs inside the Joint List faction: Hadash = Ayman Odeh 30066, Aida Touma-Sliman 30067, Ofer Cassif 30719; Ta'al = Ahmad Tibi 560, Osama Saadi 30070"
+2022,9715,Hadash-Ta'al,jointlist_family,24,113,תנועה ערבית להתחדשות,,2022-01-01,2022-11-14,"Ta'al (Tibi, Saadi) after it formally left the Joint List faction on 2022-09-06"
+2022,9715,Hadash-Ta'al,jointlist_family,25,118,החזית הדמוקרטית לשלום ולשוויון - תנועה ערבית להתחדשות,,2022-11-15,2022-12-31,Hadash-Ta'al faction in K25

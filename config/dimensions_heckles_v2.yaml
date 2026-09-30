@@ -1,0 +1,16 @@
+# Version 2 of the gendered heckle item. Version 1 took Hebrew's grammatical gender and polite address to a woman
+# ("גברתי", "חברת הכנסת") as remarks about her gender.
+
+targets:
+  - id: heckle_gendered_v2
+    question: >-
+      Does the interjection make the speaking member's sex or gender the point: a remark on her or his looks, body,
+      clothes, voice, sexuality, marriage or role as a mother or father, or a put-down that works only because of the
+      speaker's gender, such as telling a woman she is hysterical or emotional, calling her "girl" or "sweetie", or
+      saying women do not belong in politics? Hebrew grammar does not count: addressing someone in the feminine
+      ("גברתי", "חברת הכנסת", "השרה", verbs in the feminine) is ordinary grammar, not a remark about gender.
+      Procedural remarks (your time is up, please finish, thank you) do not count either.
+    when_true: The interjection makes the speaker's gender, body, looks, sexuality or family role the point, or
+      belittles the speaker for being a woman or a man.
+    when_false: The interjection is about something else; feminine or masculine grammar, forms of address and procedural
+      remarks alone do not count.

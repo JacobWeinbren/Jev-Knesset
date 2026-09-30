@@ -1,0 +1,10 @@
+# large or re-downloadable; data/jev holds the paid answers, so keep it out of git but never delete it
+data/corpus/
+data/jev/
+outputs/
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

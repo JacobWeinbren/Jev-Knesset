@@ -1,0 +1,30 @@
+# Asked of single interjections in a member's plenary speech, shown after the speech's last few sentences for context.
+# All wording is ours.
+
+targets:
+  - id: heckle_hostile
+    question: >-
+      Is the interjection hostile toward the member who is speaking: contempt, ridicule, an insult, a slur, a threat,
+      or an attack on the person rather than on what they said? A factual objection, a question, a joke without a
+      barb, or agreement is not hostile.
+    when_true: The interjection is contemptuous, insulting, ridiculing or threatening toward the speaker.
+    when_false: The interjection is neutral, factual, questioning, humorous without a barb, or supportive.
+  - id: heckle_silencing
+    question: >-
+      Does the interjection tell the member who is speaking to stop, be quiet, sit down, finish, or that their time
+      is up, or otherwise try to end their speech rather than answer it?
+    when_true: The interjection tries to stop or silence the speaker.
+    when_false: The interjection responds to the speech or to its subject, or is about something else.
+  - id: heckle_gendered
+    question: >-
+      Does the interjection refer to the speaking member's sex or gender, appearance, body, dress, voice, family role
+      (wife, mother, girl), sexuality, or use a belittlement that turns on gender (telling a woman to calm down or not
+      be hysterical, a diminutive, a comment on looks)? A remark that would read the same about a man is not gendered.
+    when_true: The interjection turns on the speaker's gender, appearance, body or family role.
+    when_false: The interjection makes no reference to the speaker's gender, appearance, body or family role.
+  - id: heckle_personal
+    question: >-
+      Does the interjection attack the speaking member personally, as a person: their honesty, competence, past,
+      loyalty, character or fitness to speak, rather than the argument they are making?
+    when_true: The interjection attacks the speaker as a person.
+    when_false: The interjection addresses the argument, the facts or the subject, or is not an attack.

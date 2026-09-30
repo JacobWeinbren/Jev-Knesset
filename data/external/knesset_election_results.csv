@@ -1,0 +1,401 @@
+election_date,list,list_wikipedia,seats,votes,vote_share,lineage,components,bloc,source_url
+1992-06-23,Labour,Labor Party,44,906810,34.653,labor,,Left,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Likud,Likud,32,651229,24.886,likud,,Right,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Meretz,Meretz,12,250667,9.579,meretz,,Left,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Tzomet,Tzomet,8,166366,6.358,tzomet,,Right,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,National Religious Party,National Religious Party,6,129663,4.955,national_religious,,Orthodox,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Shas,Shas,6,129347,4.943,shas,,Orthodox,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,United Torah Judaism,United Torah Judaism,4,86167,3.293,utj,,Orthodox,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Hadash,Hadash,3,62546,2.39,hadash,,Arab-Israeli,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Moledet,Moledet,3,62269,2.38,moledet,,Right,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Arab Democratic Party,Arab Democratic Party,2,40788,1.559,raam,,Arab-Israeli,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Tehiya,Tehiya,0,31957,1.221,tehiya,,Right,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Progressive List for Peace,Progressive List for Peace,0,24181,0.924,progressive_list,,Arab-Israeli,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,New Liberal Party,New Liberal Party,0,16669,0.637,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Geulat Yisrael,Geulat Yisrael,0,12851,0.491,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Da,Da,0,11697,0.447,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,"Pensioners, Immigrants and Senior Citizens","Pensioners, Immigrants and Senior Citizens",0,8327,0.318,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,"Movement of Mortgage Victims, the Homeless and Veterans","Movement of Mortgage Victims, the Homeless and Veterans",0,5962,0.228,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Pikanti,Pikanti,0,3750,0.143,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Torah VeAretz,Torah VeAretz,0,3708,0.142,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,On Wheels,On Wheels,0,3355,0.128,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Women's Party,Women's Party,0,2886,0.11,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Hatikva,Hatikva,0,2053,0.078,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Natural Law Party,Natural Law Party,0,1734,0.066,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Tali,Tali,0,1336,0.051,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1992-06-23,Tzipor,Tzipor,0,523,0.02,other,,Other lists,https://en.wikipedia.org/wiki/1992_Israeli_legislative_election
+1996-05-29,Labour,Labor Party,34,818741,26.825,labor,,Left,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Likud-Gesher-Tzomet,Likud–Gesher–Tzomet,32,767401,25.143,likud,likud;tzomet,Right,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Shas,Shas,10,259796,8.512,shas,,Orthodox,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,National Religious Party,National Religious Party,9,240271,7.872,national_religious,,Orthodox,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Meretz,Meretz,9,226275,7.414,meretz,,Left,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Yisrael BaAliyah,Yisrael BaAliyah,7,174994,5.734,yisrael_baaliyah,,Sectoral,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Hadash-Balad,Hadash–Balad,5,129455,4.241,hadash,hadash;balad,Arab-Israeli,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,United Torah Judaism,United Torah Judaism,4,98657,3.232,utj,,Orthodox,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,The Third Way,Third Way,4,96474,3.161,third_way,,Secular Centre,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,United Arab List (Ra'am-Mada),Ra'am–Mada,4,89514,2.933,raam,,Arab-Israeli,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Moledet,Moledet,2,72002,2.359,moledet,,Right,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Unity for the Defence of New Immigrants,Unity for the Defence of New Immigrants,0,22741,0.745,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Gil,Gil,0,14935,0.489,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Progressive Confederation,Progressive Confederation,0,13983,0.458,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Telem Emuna,Telem Emuna,0,12737,0.417,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Settlement Party,Settlement Party,0,5533,0.181,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Yamin Yisrael,Yamin Yisrael,0,2845,0.093,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Man's Rights in the Family Party,Man's Rights in the Family Party,0,2338,0.077,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Ta'al,Ta'al,0,2087,0.068,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1996-05-29,Da'am Workers Party,Da'am Workers Party,0,1351,0.044,other,,Other lists,https://en.wikipedia.org/wiki/1996_Israeli_general_election
+1999-05-17,"One Israel (Labour, Gesher, Meimad)",One Israel,26,670484,20.26,labor,,Left,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Likud,Likud,19,468103,14.145,likud,,Right,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Shas,Shas,17,430676,13.014,shas,,Orthodox,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Meretz,Meretz,10,253525,7.661,meretz,,Left,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Yisrael BaAliyah,Yisrael BaAliyah,6,171705,5.188,yisrael_baaliyah,,Sectoral,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Shinui,Shinui,6,167748,5.069,shinui,,Secular Centre,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Centre Party,Centre Party,6,165622,5.005,center_party,,Secular Centre,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,National Religious Party,National Religious Party,5,140307,4.24,national_religious,,Orthodox,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,United Torah Judaism,United Torah Judaism,5,125741,3.799,utj,,Orthodox,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,United Arab List (Ra'am),United Arab List,5,114810,3.469,raam,,Arab-Israeli,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,"National Union (Herut, Moledet, Tkuma)",National Union,4,100181,3.027,national_religious,national_religious;moledet;herut,Right,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Hadash,Hadash,3,87022,2.63,hadash,,Arab-Israeli,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Yisrael Beiteinu,Yisrael Beiteinu,4,86153,2.603,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Balad,Balad,2,66103,1.997,balad,,Arab-Israeli,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,One Nation (Am Ehad),One Nation,2,64143,1.938,am_ehad,,Left,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Pnina Rosenblum,Pnina Rosenblum,0,44953,1.358,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Power for Pensioners,Power for Pensioners,0,37525,1.134,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Ale Yarok,Ale Yarok,0,34029,1.028,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,The Third Way,The Third Way,0,26290,0.794,third_way,,Secular Centre,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Green Party,Green Party,0,13292,0.402,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Tikva,Tikva,0,7366,0.223,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Casino Party,Casino Party,0,6540,0.198,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Lev LaOlim,Lev LaOlim,0,6311,0.191,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Negev Party,Negev Party,0,4324,0.131,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Tzomet,Tzomet,0,4128,0.125,tzomet,,Right,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Natural Law Party,Natural Law Party,0,2924,0.088,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Progressive Center Party,Progressive Center Party,0,2797,0.085,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Da'am Workers Party,Da'am Workers Party,0,2151,0.065,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,New Arab Party,New Arab Party,0,2042,0.062,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Justice for All,Justice for All,0,1257,0.038,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+1999-05-17,Moreshet Avot,Moreshet Avot,0,1164,0.035,other,,Other lists,https://en.wikipedia.org/wiki/1999_Israeli_general_election
+2003-01-28,Likud,Likud,38,925279,29.389,likud,,Right,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Labour-Meimad,Labor–Meimad,19,455183,14.458,labor,,Left,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Shinui,Shinui,15,386535,12.277,shinui,,Secular Centre,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Shas,Shas,11,258879,8.223,shas,,Orthodox,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,"National Union (Moledet, Tkuma, Yisrael Beiteinu)",National Union,7,173973,5.526,national_religious,national_religious;moledet;yisrael_beiteinu,Right,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Meretz-Democratic Choice,Meretz - Democratic Choice - Shahar,6,164122,5.213,meretz,,Left,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,National Religious Party,National Religious Party,6,132370,4.204,national_religious,,Orthodox,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,United Torah Judaism,United Torah Judaism,5,135087,4.291,utj,,Orthodox,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Hadash-Ta'al,Hadash–Ta'al,3,93819,2.98,hadash,hadash;taal,Arab-Israeli,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,One Nation (Am Ehad),One Nation,3,86808,2.757,am_ehad,,Left,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Balad,Balad,3,71299,2.265,balad,,Arab-Israeli,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Yisrael BaAliyah,Yisrael BaAliyah,2,67719,2.151,yisrael_baaliyah,,Sectoral,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,United Arab List (Ra'am),United Arab List,2,65551,2.082,raam,,Arab-Israeli,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Ale Yarok,Ale Yarok,0,37855,1.202,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Herut,Herut – The National Movement,0,36202,1.15,herut,,Right,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Progressive National Alliance,Progressive National Alliance,0,20571,0.653,national_progressive_alliance,,Arab-Israeli,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,The Greens,The Greens,0,12833,0.408,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Yisrael Aheret,Yisrael Aheret,0,7144,0.227,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Ahavat Yisrael,Ahavat Yisrael,0,5468,0.174,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Tzomet,Tzomet,0,2023,0.064,tzomet,,Right,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Centre Party,Centre Party,0,1961,0.062,center_party,,Secular Centre,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Da'am Workers Party,Da'am Workers Party,0,1925,0.061,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Citizen and State,Citizen and State,0,1566,0.05,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Man's Rights in the Family Party,Man's Rights in the Family Party,0,1284,0.041,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Lahava,Lahava,0,1181,0.038,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Za'am,Za'am,0,894,0.028,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2003-01-28,Leader,Leader,0,833,0.026,other,,Other lists,https://en.wikipedia.org/wiki/2003_Israeli_legislative_election
+2006-03-28,Kadima,Kadima,29,690901,22.024,kadima,,Secular Centre,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Labour-Meimad,Labor–Meimad,19,472366,15.058,labor,,Left,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Shas,Shas,12,299054,9.533,shas,,Orthodox,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Likud,Likud,12,281996,8.989,likud,,Right,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Yisrael Beiteinu,Yisrael Beiteinu,11,281880,8.985,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,National Union-National Religious Party,National Union–National Religious Party,9,224083,7.143,national_religious,national_religious;moledet,Right,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Gil (pensioners),Gil,7,185759,5.921,gil,,Sectoral,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,United Torah Judaism,United Torah Judaism,6,147091,4.689,utj,,Orthodox,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Meretz-Yachad,Meretz-Yachad,5,118302,3.771,meretz,,Left,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,United Arab List-Ta'al,United Arab List–Ta'al,4,94786,3.021,raam,raam;taal,Arab-Israeli,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Hadash,Hadash,3,86092,2.744,hadash,,Arab-Israeli,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Balad,Balad,3,72066,2.297,balad,,Arab-Israeli,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Green Party,Green Party,0,47595,1.517,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Ale Yarok,Ale Yarok,0,40353,1.286,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Jewish National Front,Jewish National Front,0,24824,0.791,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Tafnit,Tafnit,0,18753,0.598,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Atid Ehad,Atid Ehad,0,14005,0.446,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Hetz,Hetz,0,10113,0.322,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Shinui,Shinui,0,4675,0.149,shinui,,Secular Centre,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Justice for All,Justice for All,0,3819,0.122,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Da'am Workers Party,Da'am Workers Party,0,3692,0.118,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Herut,Herut – The National Movement,0,2387,0.076,herut,,Right,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,HaLev,HaLev,0,2163,0.069,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Brit Olam,Brit Olam,0,2011,0.064,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Lev,Lev,0,1765,0.056,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Lehem,Lehem,0,1381,0.044,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Tzomet,Tzomet,0,1342,0.043,tzomet,,Right,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,The New Zionism,The New Zionism,0,1278,0.041,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Oz LaAniyim,Oz LaAniyim,0,1214,0.039,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Arab National Party,Arab National Party,0,738,0.024,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2006-03-28,Leader,Leader,0,580,0.018,other,,Other lists,https://en.wikipedia.org/wiki/2006_Israeli_legislative_election
+2009-02-10,Kadima,Kadima,28,758032,22.47,kadima,,Secular Centre,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Likud,Likud,27,729054,21.611,likud,,Right,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Yisrael Beiteinu,Yisrael Beiteinu,15,394577,11.696,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Labour,Labor Party,13,334900,9.927,labor,,Left,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Shas,Shas,11,286300,8.487,shas,,Orthodox,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,United Torah Judaism,United Torah Judaism,5,147954,4.386,utj,,Orthodox,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,United Arab List-Ta'al,United Arab List–Ta'al,4,113954,3.378,raam,raam;taal,Arab-Israeli,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,National Union,National Union,4,112570,3.337,national_religious,,Right,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Hadash,Hadash,4,112130,3.324,hadash,,Arab-Israeli,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,New Movement-Meretz,New Movement-Meretz,3,99611,2.953,meretz,,Left,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,The Jewish Home,The Jewish Home,3,96765,2.868,national_religious,,Right,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Balad,Balad,3,83739,2.482,balad,,Arab-Israeli,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,The Green Movement–Meimad,The Green Movement–Meimad,0,27737,0.822,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Gil (pensioners),Gil,0,17571,0.521,gil,,Sectoral,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Ale Yarok,Ale Yarok,0,13132,0.389,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,The Greens,The Greens,0,12378,0.367,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Yisrael Hazaka,Yisrael Hazaka,0,6722,0.199,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Tzabar,Tzabar,0,4752,0.141,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Koah LeHashpi'a,Koah LeHashpi'a,0,3696,0.11,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Da'am Workers Party,Da'am Workers Party,0,2645,0.078,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Yisrael HaMithadeshet,Yisrael HaMithadeshet,0,2572,0.076,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Holocaust Survivors and Grown-Up Green Leaf Party,Holocaust Survivors and Grown-Up Green Leaf Party,0,2346,0.07,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Leader,Leader,0,1887,0.056,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Tzomet,Tzomet,0,1520,0.045,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Koah HaKesef,Koah HaKesef,0,1008,0.03,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Man's Rights in the Family Party,Man's Rights in the Family Party,0,921,0.027,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,HaYisraelim,HaYisraelim,0,856,0.025,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Or,Or,0,815,0.024,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Ahrayut,Ahrayut,0,802,0.024,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Brit Olam,Brit Olam,0,678,0.02,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Lev LaOlim,Lev LaOlim,0,632,0.019,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Lazuz,Lazuz,0,623,0.018,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2009-02-10,Lehem,Lehem,0,611,0.018,other,,Other lists,https://en.wikipedia.org/wiki/2009_Israeli_legislative_election
+2013-01-22,Likud Yisrael Beiteinu,Likud Yisrael Beiteinu,31,885054,23.335,likud,likud;yisrael_beiteinu,Right,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Yesh Atid,Yesh Atid,19,543458,14.329,yesh_atid,,Secular Centre,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Labour,Labor Party,15,432118,11.393,labor,,Left,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,The Jewish Home,The Jewish Home,12,345985,9.122,national_religious,,Right,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Shas,Shas,11,331868,8.75,shas,,Orthodox,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,United Torah Judaism,United Torah Judaism,7,195892,5.165,utj,,Orthodox,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Hatnuah,Hatnua,6,189167,4.988,hatnuah,,Secular Centre,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Meretz,Meretz,6,172403,4.546,meretz,,Left,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,United Arab List-Ta'al (Ra'am),Ra'am,4,138450,3.65,raam,raam;taal,Arab-Israeli,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Hadash,Hadash,4,113439,2.991,hadash,,Arab-Israeli,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Balad,Balad,3,97030,2.558,balad,,Arab-Israeli,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Kadima,Kadima,2,79081,2.085,kadima,,Secular Centre,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Otzma LeYisrael,Otzma LeYisrael,0,66775,1.761,otzma_yehudit,,Right,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Am Shalem,Am Shalem,0,45690,1.205,am_shalem,,Orthodox,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Ale Yarok–The Liberal List,Ale Yarok–The Liberal List,0,43734,1.153,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Eretz Hadasha,Eretz Hadasha,0,28080,0.74,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Koah Lehashpi'a,Koah Lehashpi'a,0,28049,0.74,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,HaYisraelim,HaYisraelim,0,18941,0.499,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,The Greens and the Youth,The Greens and the Youth,0,8117,0.214,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Dor,Dor,0,5975,0.158,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Living with Dignity,Living with Dignity,0,3640,0.096,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Da'am Workers Party,Da'am Workers Party,0,3546,0.093,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,We are Brothers,We are Brothers,0,2899,0.076,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Social Justice,Social Justice,0,2877,0.076,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,We are all Friends,We are all Friends,0,2176,0.057,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Pirate Party,Pirate Party,0,2076,0.055,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Finance Party,Finance Party,0,1972,0.052,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Leader,Leader,0,1352,0.036,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Or,Or,0,1027,0.027,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Brit Olam,Brit Olam,0,761,0.02,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Hope for Change,Hope for Change,0,649,0.017,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2013-01-22,Moreshet Avot,Moreshet Avot,0,461,0.012,other,,Other lists,https://en.wikipedia.org/wiki/2013_Israeli_legislative_election
+2015-03-17,Likud,Likud,30,985408,23.401,likud,,Right,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,"Zionist Union (Labour, Hatnuah)",Zionist Union,24,786313,18.673,labor,labor;hatnuah,Left,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Joint List,Joint List,13,446583,10.605,hadash,hadash;balad;raam;taal,Arab-Israeli,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Yesh Atid,Yesh Atid,11,371602,8.825,yesh_atid,,Secular Centre,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Kulanu,Kulanu,10,315360,7.489,kulanu,,Secular Centre,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,The Jewish Home,The Jewish Home,8,283910,6.742,national_religious,,Right,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Shas,Shas,7,241613,5.738,shas,,Orthodox,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Yisrael Beiteinu,Yisrael Beiteinu,6,214906,5.104,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,United Torah Judaism,United Torah Judaism,6,210143,4.99,utj,,Orthodox,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Meretz,Meretz,5,165529,3.931,meretz,,Left,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,"Yachad (Eli Yishai, with Otzma Yehudit)",Yachad,0,125158,2.972,yachad,yachad;otzma_yehudit,Orthodox,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Ale Yarok,Ale Yarok,0,47180,1.12,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Arab List (Mada–Arab National Party),Arab List (Mada–Arab National Party),0,4301,0.102,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,The Greens,The Greens,0,2992,0.071,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,We Are All Friends Na Nach,We Are All Friends Na Nach,0,2493,0.059,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,U'Bizchutan,U'Bizchutan,0,1802,0.043,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Hope for Change,Hope for Change,0,1385,0.033,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Pirate Party,Pirate Party,0,895,0.021,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Flower Party,Flower Party,0,823,0.02,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Brit Olam,Brit Olam,0,761,0.018,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Or,Or,0,502,0.012,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Living with Dignity,Living with Dignity,0,423,0.01,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Economy Party,Economy Party,0,337,0.008,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Democratura,Democratura,0,242,0.006,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2015-03-17,Social Leadership,Social Leadership,0,223,0.005,other,,Other lists,https://en.wikipedia.org/wiki/2015_Israeli_legislative_election
+2019-04-09,Likud,Likud,35,1140370,26.463,likud,,Right,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,"Blue and White (Israel Resilience, Yesh Atid, Telem)",Blue and White,35,1125881,26.127,blue_white,blue_white;yesh_atid,Secular Centre,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Shas,Shas,8,258275,5.993,shas,,Orthodox,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,United Torah Judaism,United Torah Judaism,8,249049,5.779,utj,,Orthodox,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Hadash-Ta'al,Hadash–Ta'al,6,193442,4.489,hadash,hadash;taal,Arab-Israeli,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Labour,Labor Party,6,190870,4.429,labor,,Left,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Yisrael Beiteinu,Yisrael Beiteinu,5,173004,4.015,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Union of Right-Wing Parties,Union of Right-Wing Parties,5,159468,3.701,national_religious,national_religious;otzma_yehudit,Right,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Meretz,Meretz,4,156473,3.631,meretz,,Left,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Kulanu,Kulanu,4,152756,3.545,kulanu,,Secular Centre,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,United Arab List-Balad,United Arab List–Balad,4,143666,3.334,raam,raam;balad,Arab-Israeli,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,New Right,New Right,0,138598,3.216,yamina,,Right,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Zehut,Zehut,0,118031,2.739,zehut,,Right,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Gesher (Orly Levy-Abekasis),Gesher,0,74701,1.733,gesher_orly_levy,,Secular Centre,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Social Security,Social Security,0,4618,0.107,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,The Arab List (Mada–ANP),The Arab List (Mada–ANP),0,4135,0.096,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Social Justice,Social Justice,0,3843,0.089,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Shield of Israel,Shield of Israel,0,3394,0.079,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Justice for All,Justice for All,0,3281,0.076,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Tzomet,Tzomet,0,2417,0.056,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Yashar,Yashar,0,1438,0.033,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Zekhuyotenu BeKoleinu,Zekhuyotenu BeKoleinu,0,1316,0.031,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Veteran Civil,Veteran Civil,0,1168,0.027,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Kol Yisrael Ahim,Kol Yisrael Ahim,0,1140,0.026,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Pirate Party,Pirate Party,0,819,0.019,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Pashut Ahava,Pashut Ahava,0,733,0.017,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Eretz Yisrael Shelanu,Eretz Yisrael Shelanu,0,701,0.016,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,We are all friends Na Nach,We are all friends Na Nach,0,624,0.014,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,MeHathala,MeHathala,0,603,0.014,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Hope for Change,Hope for Change,0,562,0.013,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Green Economy – One Nation,Green Economy – One Nation,0,556,0.013,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Education,Education,0,518,0.012,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Ahrayut LaMeyasdim,Ahrayut LaMeyasdim,0,428,0.01,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Human Dignity,Human Dignity,0,404,0.009,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Shavim,Shavim,0,401,0.009,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Social Leadership,Social Leadership,0,385,0.009,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Ani VeAta,Ani VeAta,0,368,0.009,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Bible Bloc,Bible Bloc,0,353,0.008,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Ihud Bnei HaBrit,Ihud Bnei HaBrit,0,265,0.006,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-04-09,Brit Olam,Brit Olam,0,216,0.005,other,,Other lists,https://en.wikipedia.org/wiki/April_2019_Israeli_legislative_election
+2019-09-17,Blue and White,Blue and White,33,1151214,25.947,blue_white,blue_white;yesh_atid,Secular Centre,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Likud (with Kulanu),Likud,32,1113617,25.1,likud,likud;kulanu,Right,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Joint List,Joint List,13,470211,10.598,hadash,hadash;balad;raam;taal,Arab-Israeli,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Shas,Shas,9,330199,7.442,shas,,Orthodox,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Yisrael Beiteinu,Yisrael Beiteinu,8,310154,6.99,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,United Torah Judaism,United Torah Judaism,7,268775,6.058,utj,,Orthodox,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,"Yamina (New Right, Union of Right-Wing Parties)",Yamina,7,260655,5.875,yamina,yamina;national_religious,Right,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Labour-Gesher,Labor–Gesher,6,212782,4.796,labor,labor;gesher_orly_levy,Left,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,"Democratic Union (Meretz, Israel Democratic Party)",Democratic Union,5,192495,4.339,meretz,,Left,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Otzma Yehudit,Otzma Yehudit,0,83609,1.884,otzma_yehudit,,Orthodox,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Tzomet,Tzomet,0,14805,0.334,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Popular Unity,Popular Unity,0,5946,0.134,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Red and White,Red and White,0,4358,0.098,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Justice,Justice,0,3053,0.069,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Secular Right,Secular Right,0,2395,0.054,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Respect and Equality,Respect and Equality,0,1545,0.035,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Our Rights In Our Vote,Our Rights In Our Vote,0,1473,0.033,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Pirate Party,Pirate Party,0,1236,0.028,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Economic Power,Economic Power,0,1193,0.027,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Liberal Democratic Progressive Party,Liberal Democratic Progressive Party,0,1033,0.023,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Kama,Kama,0,994,0.022,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,New Order,New Order,0,928,0.021,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Democracy Party,Democracy Party,0,736,0.017,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,North,North,0,725,0.016,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Liberal Christian Movement,Liberal Christian Movement,0,610,0.014,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Da'am Workers Party,Da'am Workers Party,0,592,0.013,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Human Dignity,Human Dignity,0,542,0.012,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Bible Bloc,Bible Bloc,0,497,0.011,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2019-09-17,Social Leadership,Social Leadership,0,434,0.01,other,,Other lists,https://en.wikipedia.org/wiki/September_2019_Israeli_legislative_election
+2020-03-02,Likud,Likud,36,1352449,29.465,likud,,Right,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Blue and White,Blue and White,33,1220381,26.587,blue_white,blue_white;yesh_atid,Secular Centre,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Joint List,Joint List,15,581507,12.669,hadash,hadash;balad;raam;taal,Arab-Israeli,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Shas,Shas,9,352853,7.687,shas,,Orthodox,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,United Torah Judaism,United Torah Judaism,7,274437,5.979,utj,,Orthodox,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Labour-Gesher-Meretz,Labor-Gesher-Meretz,7,267480,5.827,labor,labor;gesher_orly_levy;meretz,Left,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Yisrael Beiteinu,Yisrael Beiteinu,7,263365,5.738,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Yamina,Yamina,6,240689,5.244,yamina,yamina;national_religious,Right,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Otzma Yehudit,Otzma Yehudit,0,19402,0.423,otzma_yehudit,,Orthodox,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Liberal–Economic Power,Liberal–Economic Power,0,3781,0.082,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Women's Voice,Women's Voice,0,2773,0.06,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,The Pirates – For Democracy Click Here<!-- This is the name of the party as it appeared on the ballot. -->,The Pirates – For Democracy Click Here<!-- This is the name of the party as it appeared on the ballot. -->,0,1473,0.032,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Mishpat Tzedek,Mishpat Tzedek,0,1375,0.03,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Israelist – Our Rights in Our Vote,Israelist – Our Rights in Our Vote,0,980,0.021,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Me and You,Me and You,0,812,0.018,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Ihud HaBrit VeHaShutafut,Ihud HaBrit VeHaShutafut,0,677,0.015,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,New Order,New Order,0,677,0.015,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Koah Lehashpi'a,Koah Lehashpi'a,0,667,0.015,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Mitkademet,Mitkademet,0,622,0.014,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Da'am–Green Economy–One Nation,Da'am–Green Economy–One Nation,0,612,0.013,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Jewish Heart,Jewish Heart,0,516,0.011,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Shama,Shama,0,442,0.01,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Bible Bloc,Bible Bloc,0,389,0.008,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Kama,Kama,0,350,0.008,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Red and White,Red and White,0,342,0.007,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Vision,Vision,0,308,0.007,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Social Leadership,Social Leadership,0,271,0.006,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Human Dignity,Human Dignity,0,222,0.005,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2020-03-02,Action for Israel,Action for Israel,0,210,0.005,other,,Other lists,https://en.wikipedia.org/wiki/2020_Israeli_legislative_election
+2021-03-23,Likud,Likud,30,1066892,24.192,likud,,Right,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Yesh Atid,Yesh Atid,17,614112,13.925,yesh_atid,,Secular Centre,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Shas,Shas,9,316008,7.166,shas,,Orthodox,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Blue and White,Blue and White,8,292257,6.627,blue_white,,Secular Centre,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Yamina,Yamina,7,273836,6.209,yamina,,Right,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Labour,Israeli Labor Party,7,268767,6.094,labor,,Left,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,United Torah Judaism,United Torah Judaism,7,248391,5.632,utj,,Orthodox,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Yisrael Beiteinu,Yisrael Beiteinu,7,248370,5.632,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Religious Zionist Party (with Otzma Yehudit and Noam),Religious Zionist Party,6,225641,5.117,national_religious,national_religious;otzma_yehudit,Orthodox,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Joint List,Joint List,6,212583,4.82,hadash,hadash;balad;taal,Arab-Israeli,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,New Hope,New Hope,6,209161,4.743,new_hope,,Right,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Meretz,Meretz,6,202218,4.585,meretz,,Left,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,United Arab List (Ra'am),Ra'am,4,167064,3.788,raam,,Arab-Israeli,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,New Economic Party,New Economic Party,0,34883,0.791,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Rapeh only Health,Rapeh only Health,0,17346,0.393,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Pirate Party,Pirate Party,0,1309,0.03,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Me and You,Me and You,0,1291,0.029,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Hope for Change,Hope for Change,0,1189,0.027,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Social Bang – Pensioners,Social Bang – Pensioners,0,811,0.018,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Mishpat Tzedek,Mishpat Tzedek,0,729,0.017,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Tzomet,Tzomet,0,663,0.015,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Am Shalem,Am Shalem,0,592,0.013,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,New Order,New Order,0,514,0.012,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Kama,Kama,0,486,0.011,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,The Impossible – Possible,The Impossible – Possible,0,463,0.01,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Jewish Heart,Jewish Heart,0,443,0.01,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Atzmeinu,Atzmeinu,0,441,0.01,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Bible Bloc,Bible Bloc,0,429,0.01,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,New World,New World,0,429,0.01,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Common Alliance,Common Alliance,0,408,0.009,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,The Israelis,The Israelis,0,395,0.009,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Shama,Shama,0,395,0.009,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Da'am Workers Party,Da'am Workers Party,0,385,0.009,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Social Leadership,Social Leadership,0,256,0.006,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Ma'an – Together for a New Era,Ma'an – Together for a New Era,0,253,0.006,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Hetz,Hetz,0,226,0.005,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Us,Us,0,220,0.005,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2021-03-23,Human Dignity,Human Dignity,0,196,0.004,other,,Other lists,https://en.wikipedia.org/wiki/2021_Israeli_legislative_election
+2022-11-01,Likud,Likud,32,1115336,23.408,likud,,Right,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Yesh Atid,Yesh Atid,24,847435,17.786,yesh_atid,,Secular Centre,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Religious Zionism-Otzma Yehudit-Noam,Religious Zionism-Otzma Yehudit,14,516470,10.839,national_religious,national_religious;otzma_yehudit,Orthodox,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,"National Unity (Blue and White, New Hope)",National Unity,12,432482,9.077,blue_white,blue_white;new_hope,Secular Centre,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Shas,Shas,11,392964,8.247,shas,,Orthodox,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,United Torah Judaism,United Torah Judaism,7,280194,5.881,utj,,Orthodox,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Yisrael Beiteinu,Yisrael Beiteinu,6,213687,4.485,yisrael_beiteinu,,Right,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,United Arab List (Ra'am),Ra'am,5,194047,4.073,raam,,Arab-Israeli,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Hadash-Ta'al,Hadash–Ta'al,5,178735,3.751,hadash,hadash;taal,Arab-Israeli,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Labour,Israeli Labor Party,4,175992,3.694,labor,,Left,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Meretz,Meretz,0,150793,3.165,meretz,,Left,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Balad,Balad,0,138617,2.909,balad,,Arab-Israeli,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,The Jewish Home,The Jewish Home,0,56775,1.192,national_religious,,Right,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Economic Freedom,Economic Freedom,0,15801,0.332,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,With Courage for You,With Courage for You,0,14694,0.308,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,New Economic Party,New Economic Party,0,13920,0.292,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Fiery Youth,Fiery Youth,0,8800,0.185,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Pirate Party,Pirate Party,0,1728,0.036,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Voice of the Environment and the Living,Voice of the Environment and the Living,0,1618,0.034,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Ale Yarok–Islamic Family,Ale Yarok–Islamic Family,0,1524,0.032,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Nativ,Nativ,0,1354,0.028,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Every Vote Counts,Every Vote Counts,0,1292,0.027,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,There's a Direction,There's a Direction,0,1215,0.025,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Free Democratic Israel,Free Democratic Israel,0,1157,0.024,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,New Order,New Order,0,1078,0.023,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,The New Independents,The New Independents,0,1020,0.021,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Social Leadership,Social Leadership,0,988,0.021,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,30/40,30/40,0,939,0.02,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Me and You,Me and You,0,746,0.016,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Dawn Social Power,Dawn Social Power,0,430,0.009,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Jewish Heart,Jewish Heart,0,415,0.009,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Bible Bloc,Bible Bloc,0,411,0.009,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Respect for Humanity,Respect for Humanity,0,350,0.007,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Us,Us,0,334,0.007,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Tzomet,Tzomet,0,292,0.006,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Order of the Hour,Order of the Hour,0,262,0.005,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Shama,Shama,0,255,0.005,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Common Alliance,Common Alliance,0,234,0.005,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Kama,Kama,0,205,0.004,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election
+2022-11-01,Koah Lehashpi'a,Koah Lehashpi'a,0,153,0.003,other,,Other lists,https://en.wikipedia.org/wiki/2022_Israeli_legislative_election

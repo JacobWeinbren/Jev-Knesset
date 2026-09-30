@@ -1,0 +1,81 @@
+faction_id,name_en,knesset,bloc,basis
+12,Mapai (corpus mislabel),14,Left,"corpus mislabel: Ehud Barak, really Labour"
+12,Mapai (corpus mislabel),*,Right,"corpus mislabel: Yehiel Hazan (K16) and Oren Hazan (K20), really Likud"
+18,Agudat Yisrael,*,Orthodox,from factions_en.csv bloc 'haredi'
+24,National Religious Party (Mafdal),*,Orthodox,party bloc table: National Religious Party = Orthodox (Knessets 13-16)
+31,Likud,*,Right,from factions_en.csv bloc 'right'
+33,Hadash (corpus id for Hadash 'as a far-left party'),*,Arab-Israeli,from factions_en.csv bloc 'arab'
+34,Hadash,*,Arab-Israeli,from factions_en.csv bloc 'arab'
+35,Labor,*,Left,from factions_en.csv bloc 'left'
+59,Shinui,*,Secular Centre,from factions_en.csv bloc 'center'
+75,Shas,*,Orthodox,from factions_en.csv bloc 'haredi'
+79,Tzomet,*,Right,from factions_en.csv bloc 'right'
+80,Arab Democratic Party (Mada),*,Arab-Israeli,from factions_en.csv bloc 'arab'
+82,Moledet,*,Right,from factions_en.csv bloc 'right'
+83,Degel HaTorah,*,Orthodox,from factions_en.csv bloc 'haredi'
+89,Meretz,*,Left,from factions_en.csv bloc 'left'
+90,United Torah Judaism,*,Orthodox,from factions_en.csv bloc 'haredi'
+91,Yi'ud,*,Secular Centre,from factions_en.csv bloc 'center'
+92,Yamin Yisrael,*,Right,from factions_en.csv bloc 'right'
+93,Atid,*,Secular Centre,from factions_en.csv bloc 'center'
+94,Independent MK - Yosef Azran,*,Orthodox,from factions_en.csv bloc 'haredi'
+95,Independent MK - Nava Arad,*,Left,from factions_en.csv bloc 'left'
+96,Independent MK - Efraim Gur,*,Right,from factions_en.csv bloc 'right'
+97,The Third Way,*,Secular Centre,from factions_en.csv bloc 'center'
+98,Gesher (David Levy),*,Secular Centre,from factions_en.csv bloc 'center'
+99,Independent MK - Yosef Ba-Gad,*,Right,from factions_en.csv bloc 'right'
+100,Yisrael BaAliyah,*,Sectoral,party bloc table: Yisrael BaAliyah = Sectoral
+101,United Arab List (Ra'am),*,Arab-Israeli,from factions_en.csv bloc 'arab'
+102,Herut - The National Movement,*,Right,from factions_en.csv bloc 'right'
+103,Center Party,*,Secular Centre,from factions_en.csv bloc 'center'
+104,Aliyah,*,Sectoral,Aliyah: a split from Yisrael BaAliyah (Sectoral)
+105,Tkuma,*,Right,Tkuma: a National Union component; National Union = Right
+106,Balad,*,Arab-Israeli,from factions_en.csv bloc 'arab'
+107,Independent MK - David Zucker,*,Left,from factions_en.csv bloc 'left'
+108,Am Ehad (One Nation),*,Left,from factions_en.csv bloc 'left'
+109,Independent MK - Emanuel Zisman,*,Secular Centre,from factions_en.csv bloc 'center'
+110,Yisrael Beiteinu,*,Right,from factions_en.csv bloc 'right'
+111,National Union / Religious Zionism,24,Orthodox,party bloc table: Religious Zionist Party (K24) = Orthodox
+111,National Union / Religious Zionism,25,Orthodox,party bloc table: Religious Zionism-Otzma Yehudit (K25) = Orthodox
+111,National Union / Religious Zionism,*,Right,party bloc table: National Union = Right (K15-18); part of Yamina in K23
+112,Democratic Choice,*,Left,from factions_en.csv bloc 'left'
+113,Ta'al (Arab Movement for Renewal),*,Arab-Israeli,from factions_en.csv bloc 'arab'
+114,National Union - Yisrael Beiteinu,*,Right,from factions_en.csv bloc 'right'
+115,Arab National Party,*,Arab-Israeli,from factions_en.csv bloc 'arab'
+116,New Way (Derekh Hadasha),*,Secular Centre,from factions_en.csv bloc 'center'
+117,National Unity - National Progressive Alliance,*,Arab-Israeli,from factions_en.csv bloc 'arab'
+118,Hadash-Ta'al,*,Arab-Israeli,from factions_en.csv bloc 'arab'
+119,Ahi (Renewed Religious National Zionism),*,Right,"Ahi: split from the NRP into the National Union, then Likud; National Union = Right"
+120,Tzalash,*,Secular Centre,from factions_en.csv bloc 'center'
+121,Noy,*,Secular Centre,from factions_en.csv bloc 'center'
+122,Kadima,*,Secular Centre,from factions_en.csv bloc 'center'
+123,Secular Faction (Hetz),*,Secular Centre,from factions_en.csv bloc 'center'
+124,Independent MK - Michael Nudelman,*,Secular Centre,from factions_en.csv bloc 'center'
+125,National Home (HaBayit HaLeumi),*,Secular Centre,from factions_en.csv bloc 'center'
+126,Jewish Home,*,Right,party bloc table: The Jewish Home = Right; National Union-NRP (K17) = Right
+127,Ra'am-Ta'al,*,Arab-Israeli,from factions_en.csv bloc 'arab'
+128,Gil (Pensioners),*,Sectoral,party bloc table: Gil = Sectoral
+129,Justice for the Elderly,*,Sectoral,split from Gil (Sectoral)
+130,HaDerekh HaTova,*,Sectoral,split from Gil (Sectoral)
+131,Meimad,*,Left,from factions_en.csv bloc 'left'
+132,Independence (Atzmaut),*,Secular Centre,from factions_en.csv bloc 'center'
+133,Otzma LeYisrael,*,Right,party bloc table: Otzma LeYisrael = Right
+134,Hatnuah,*,Secular Centre,from factions_en.csv bloc 'center'
+135,Independent MK - Haim Amsalem,*,Orthodox,from factions_en.csv bloc 'haredi'
+136,Yesh Atid,*,Secular Centre,from factions_en.csv bloc 'center'
+137,Kulanu,*,Secular Centre,from factions_en.csv bloc 'center'
+138,Joint List,*,Arab-Israeli,from factions_en.csv bloc 'arab'
+139,Independent MK - Orly Levy-Abekasis,*,Secular Centre,from factions_en.csv bloc 'center'
+140,Yamina / New Right,*,Right,party bloc table: Yamina / New Right = Right
+141,Ra'am-Balad,*,Arab-Israeli,from factions_en.csv bloc 'arab'
+142,Blue and White,*,Secular Centre,from factions_en.csv bloc 'center'
+143,Labor-Gesher-Meretz,*,Left,from factions_en.csv bloc 'left'
+144,Gesher (Orly Levy-Abekasis),*,Secular Centre,from factions_en.csv bloc 'center'
+145,Derekh Eretz,*,Right,from factions_en.csv bloc 'right'
+146,New Hope,*,Right,from factions_en.csv bloc 'right'
+147,Independent MK - Amichai Chikli,*,Right,from factions_en.csv bloc 'right'
+148,Otzma Yehudit,*,Orthodox,"sat on the Religious Zionist list (K24) and Religious Zionism-Otzma Yehudit (K25), both Orthodox in the party bloc table"
+149,National Unity (State Camp),*,Secular Centre,from factions_en.csv bloc 'center'
+150,Noam,*,Orthodox,Noam sat on the Religious Zionist list in K24 and K25 (Orthodox in the party bloc table)
+151,Economic Freedom,*,Right,from factions_en.csv bloc 'right'
+9001,Idan Roll (National Majority),*,Secular Centre,"extension 2024-26: Idan Roll left Yesh Atid on 14 Jan 2025 to sit alone, in opposition, until 13 Aug 2025 (data/corpus/extension/new_factions.csv)"
